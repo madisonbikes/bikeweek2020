@@ -1,0 +1,38 @@
+plugins {
+    id 'java'
+    id 'org.jetbrains.kotlin.jvm' version '1.4.0'
+    id 'org.jetbrains.kotlin.kapt' version '1.4.0'
+    id 'application'
+}
+
+group 'org.madisonbikes.bikeweek'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+    maven {
+        url = uri("http://dl.bintray.com/steppschuh/Markdown-Generator")
+    }
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib"
+    implementation "com.squareup.okio:okio:2.2.2"
+    implementation "com.squareup.okhttp3:okhttp:3.14.1"
+    implementation "net.sf.supercsv:super-csv:2.4.0"
+    implementation "net.steppschuh.markdowngenerator:markdowngenerator:1.3.1.1"
+    implementation "net.sourceforge.argparse4j:argparse4j:0.8.1"
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+application {
+    mainClassName = 'org.madisonbikes.bikeweek.ProcessEventsTask'
+    applicationName = "bikeweekeventtask"
+}
+
+compileKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}
+compileTestKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}
