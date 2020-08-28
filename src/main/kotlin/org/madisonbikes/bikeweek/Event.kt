@@ -36,6 +36,7 @@ data class Event(
                 .toSet()
             val days = item.getValue("days")
                 .split(",")
+                .map { it.trim() }
                 .filterNot { it == "?" }
                 .filter { !it.isBlank() }
                 .map { EventDay(it.toInt()) }
