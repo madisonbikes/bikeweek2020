@@ -25,7 +25,7 @@ class CalendarWriter(
             EventDay.ALL.forEach { day ->
 
                 calendarSink += "\n"
-                calendarSink += Heading(day.renderAsString(), level)
+                calendarSink += Heading(day.headerString, level)
 
                 var dayCount = 0
                 events

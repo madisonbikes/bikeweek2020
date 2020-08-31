@@ -1,4 +1,23 @@
 
+Friday, September 11
+--------------------
+
+### ["Pick Me Up At The Border" Bike Ride](https://runsignup.com/Race/WI/Fitchburg/PickMeUpattheBorder)
+
+- [2995 Sub-Zero Pkwy
+Fitchburg, WI US 53719](https://www.google.com/maps/search/?api=1&query=2995%20Sub-Zero%20Pkwy%0AFitchburg%2C%20WI%20US%2053719%20Madison%2C%20WI)
+- 7:00 PM
+- Sponsored by [Bike Fitchburg](http://www.bikefitchburg.org/)
+
+Join Bike Fitchburg for their annual "Pick Me Up At The Border" bike ride, September 11th! The ride begins at 7:00pm and riders will travel 80 miles round trip along the Badger State Trail to the Illinois border and back. 
+
+
+
+If you prefer a shorter ride, you can do the round trip 50 mile round trip from Monticello, or 25 mile round trip from Belleville.
+
+[\[up\]](#TOC)
+
+
 Saturday, September 12
 ----------------------
 No events
@@ -176,5 +195,5 @@ Bring in a gently used bicycle 2-6pm during Madison Bike Week, September 12-20th
 
 [\[up\]](#TOC)
 
-_Calendar last updated Aug 31, 2020, 12:42:09 PM_
+_Calendar last updated Aug 31, 2020, 2:44:50 PM_
 

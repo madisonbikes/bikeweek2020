@@ -38,7 +38,7 @@ class LocationWriter(
                     item["Location"] = requireNotNull(event.location.mapsDescription)
                     item["Detailed Location"] = locationDisambiguator.disambiguateLocation(event.location.mapsQuery)
                     item["Description"] = event.description
-                    item["Date"] = day.renderAsString()
+                    item["Date"] = day.headerString
                     event.renderedTime?.let {
                         item["Time"] = it
                     }

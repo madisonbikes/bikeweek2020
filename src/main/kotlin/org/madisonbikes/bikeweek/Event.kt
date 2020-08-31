@@ -39,7 +39,15 @@ data class Event(
                 .map { it.trim() }
                 .filterNot { it == "?" }
                 .filter { !it.isBlank() }
-                .map { EventDay(it.toInt()) }
+                .mapNotNull { dayOfMonth ->
+                    val event = EventDay.ALL.firstOrNull {
+                        it.dayOfMonth == dayOfMonth.toInt()
+                    }
+                    if(event == null) {
+                        println("Unsupported event day $dayOfMonth")
+                    }
+                    event
+                }
                 .toSortedSet()
             val times = item
                 .getValue("time").split(",").mapNotNull {
