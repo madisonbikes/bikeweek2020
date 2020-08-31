@@ -2,7 +2,6 @@ plugins {
     id 'java'
     id 'org.jetbrains.kotlin.jvm' version '1.4.0'
     id 'org.jetbrains.kotlin.kapt' version '1.4.0'
-    id 'application'
 }
 
 group 'org.madisonbikes.bikeweek'
@@ -25,14 +24,46 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
 
-application {
-    mainClassName = 'org.madisonbikes.bikeweek.ProcessEventsTask'
-    applicationName = "bikeweekeventtask"
-}
-
 compileKotlin {
     kotlinOptions.jvmTarget = "1.8"
 }
 compileTestKotlin {
     kotlinOptions.jvmTarget = "1.8"
+}
+
+task("downloadEvents", type: Exec) {
+    doFirst {
+        mkdir 'data'
+    }
+    commandLine 'wget',
+            'https://docs.google.com/spreadsheets/d/19ils5BDZpkBe00H8wsQ2Cj1ANb9ib27iLVbho0k7aeg/export?format=csv&gid=0',
+            '-O',
+            'data/events.csv'
+}
+
+task("generate", type: JavaExec, dependsOn: downloadEvents) {
+    classpath sourceSets.main.runtimeClasspath
+    main 'org.madisonbikes.bikeweek.ProcessEventsTask'
+    args 'data/events.csv', 'data'
+}
+
+task calendar(type: Exec, dependsOn: generate) {
+    doFirst {
+        mkdir 'data/html'
+    }
+
+    commandLine 'pandoc', '+RTS', '-K512m', '-RTS', 'data/events.md',
+            '--to', 'html4', '--from', 'markdown+autolink_bare_uris+ascii_identifiers+smart',
+            '--template', 'pandoc.template',
+            '--output', 'data/html/calendar.html', '--section-divs', '--standalone',
+            '--table-of-contents', '--toc-depth', '2', '--metadata=title=Madison Bike Week Calendar of Events'
+}
+
+task upload(type: Exec) {
+    commandLine 'curl', '--insecure',
+            '--user', "${madisonBikesWebUsername}:${madisonBikesWebPassword}",
+            '-T', 'data/html/calendar.html',
+            'sftp://ssh.madisonbikes.org/~/madisonbikes.org/wp-content/bikeweek2020-calendar-snippet.html',
+            '-v'
+
 }

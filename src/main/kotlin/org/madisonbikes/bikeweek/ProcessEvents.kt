@@ -33,10 +33,12 @@ class ProcessEvents(
                 events += eventItem
             }
 
+            /*
             buildDir.mkdirs()
             File(buildDir, "events.dump").sink().buffer().use {
                 it.writeUtf8(events.toString())
             }
+             */
 
             eventsMarkdownFile.parentFile?.mkdirs()
             eventsMarkdownFile.sink().buffer().use {
@@ -44,12 +46,15 @@ class ProcessEvents(
                         .writeCalendarMarkdown()
             }
 
+            /*
             eventsMarkdownForPrintFile.parentFile?.mkdirs()
             eventsMarkdownForPrintFile.sink().buffer().use {
                 CalendarWriter(calendarSink = it, events = events, forPrint = true)
                         .writeCalendarMarkdown()
             }
+             */
 
+            /*
             locationFilePath.mkdirs()
             val locationDisambiguator = LocationDisambiguator()
             EventDay.ALL.forEach { day ->
@@ -65,6 +70,7 @@ class ProcessEvents(
                             .writeLocationsToCsv()
                 }
             }
+             */
 
         }
     }
