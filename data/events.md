@@ -1,13 +1,13 @@
 
-Monday, October 12
-------------------
+Saturday, September 12
+----------------------
 No events
 
 [\[up\]](#TOC)
 
 
-Tuesday, October 13
--------------------
+Sunday, September 13
+--------------------
 
 ### Cargo Bike Family Hour!
 
@@ -20,31 +20,17 @@ A bike themed family-friendly event
 [\[up\]](#TOC)
 
 
-Wednesday, October 14
----------------------
+Monday, September 14
+--------------------
 No events
 
 [\[up\]](#TOC)
 
 
-Thursday, October 15
---------------------
+Tuesday, September 15
+---------------------
 
-### 2020 Madison Bike Week
-
-- [950 John Nolen Drive (Capital City Trail)](https://www.google.com/maps/search/?api=1&query=950%20John%20Nolen%20Drive%20%28Capital%20City%20Trail%29%20Madison%2C%20WI)
-- 7:00 AM - 9:00 AM
-- Sponsored by [Patrick Ellestad - Edward Jones](https://www.edwardjones.com/financial-advisor/index.html?CIRN=fX12YVb%2FhZwAXMzeHYvQfngm1BQdtgWmyuHc7eLZHdKmy1UgffFVzRwrC4Ij7bpZ)
-
-Bike stop/station with pre-packaged snack, water, Gatorade
-
-[\[up\]](#TOC)
-
-
-Friday, October 16
-------------------
-
-### 2020 Madison Bike Week
+### Madison Bike Week Capital City Trail (John Nolen Dr.) Bike Station
 
 - [950 John Nolen Drive (Capital City Trail)](https://www.google.com/maps/search/?api=1&query=950%20John%20Nolen%20Drive%20%28Capital%20City%20Trail%29%20Madison%2C%20WI)
 - 7:00 AM - 9:00 AM
@@ -55,8 +41,22 @@ Bike stop/station with pre-packaged snack, water, Gatorade
 [\[up\]](#TOC)
 
 
-Saturday, October 17
---------------------
+Wednesday, September 16
+-----------------------
+
+### Madison Bike Week Capital City Trail (John Nolen Dr.) Bike Station
+
+- [950 John Nolen Drive (Capital City Trail)](https://www.google.com/maps/search/?api=1&query=950%20John%20Nolen%20Drive%20%28Capital%20City%20Trail%29%20Madison%2C%20WI)
+- 7:00 AM - 9:00 AM
+- Sponsored by [Patrick Ellestad - Edward Jones](https://www.edwardjones.com/financial-advisor/index.html?CIRN=fX12YVb%2FhZwAXMzeHYvQfngm1BQdtgWmyuHc7eLZHdKmy1UgffFVzRwrC4Ij7bpZ)
+
+Bike stop/station with pre-packaged snack, water, Gatorade
+
+[\[up\]](#TOC)
+
+
+Thursday, September 17
+----------------------
 
 ### [1st Annual Madison Brewery Bike Race](https://www.facebook.com/events/680460352681272?acontext=%7B%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D)
 
@@ -77,10 +77,10 @@ Race for time or ride for fun. Riders must obey all traffic laws, wear face mask
 [\[up\]](#TOC)
 
 
-Sunday, October 18
-------------------
+Friday, September 18
+--------------------
 
-### 2020 Madison Bike Week
+### Madison Bike Week Capital City Trail (John Nolen Dr.) Bike Station
 
 - [950 John Nolen Drive (Capital City Trail)](https://www.google.com/maps/search/?api=1&query=950%20John%20Nolen%20Drive%20%28Capital%20City%20Trail%29%20Madison%2C%20WI)
 - 7:00 AM - 9:00 AM
@@ -100,15 +100,15 @@ Social-Distance Singletrack Ride, open to W/T/F identifying mountain bikers ages
 [\[up\]](#TOC)
 
 
-Monday, October 19
-------------------
+Saturday, September 19
+----------------------
 No events
 
 [\[up\]](#TOC)
 
 
-Tuesday, October 20
--------------------
+Sunday, September 20
+--------------------
 No events
 
 [\[up\]](#TOC)
@@ -176,5 +176,5 @@ Bring in a gently used bicycle 2-6pm during Madison Bike Week, September 12-20th
 
 [\[up\]](#TOC)
 
-_Calendar last updated Aug 31, 2020, 11:44:07 AM_
+_Calendar last updated Aug 31, 2020, 12:42:09 PM_
 

@@ -32,7 +32,7 @@ data class EventDay(val dayInSeptember: Int) : Comparable<EventDay> {
             "Week-long discounts and activities"
         } else {
             val calendar = Calendar.getInstance()
-            calendar.set(2020, 9, dayInSeptember)
+            calendar.set(2020, 8, dayInSeptember)
             val formatter = SimpleDateFormat("EEEEEEEEEEEE, MMMMMMM d", Locale.US)
             formatter.format(calendar.time)
         }
