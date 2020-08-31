@@ -4,8 +4,7 @@ Friday, September 11
 
 ### ["Pick Me Up At The Border" Bike Ride](https://runsignup.com/Race/WI/Fitchburg/PickMeUpattheBorder)
 
-- [2995 Sub-Zero Pkwy
-Fitchburg, WI US 53719](https://www.google.com/maps/search/?api=1&query=2995%20Sub-Zero%20Pkwy%0AFitchburg%2C%20WI%20US%2053719%20Madison%2C%20WI)
+- [2995 Sub-Zero Pkwy, Fitchburg](https://www.google.com/maps/search/?api=1&query=2995%20Sub-Zero%20Pkwy%2C%20Fitchburg%2C%20WI)
 - 7:00 PM
 - Sponsored by [Bike Fitchburg](http://www.bikefitchburg.org/)
 
@@ -110,7 +109,7 @@ Bike stop/station with pre-packaged snack, water, Gatorade
 
 ### [CamRock Women’s (trans inclusive) ride](https://facebook.com/events/s/bell-joy-ride-msfits-madison-b/1675342102623737/?ti=icl)
 
-- [CamRock 2](https://www.google.com/maps/search/?api=1&query=CamRock%202%20Madison%2C%20WI)
+- [CamRock 2](https://www.google.com/maps/search/?api=1&query=CamRock%202%20Madison%2C%20WI&query_place_id=ChIJr8URxtdoBogR3yHKHFagy0Y)
 - 5:15 PM - 7:30 PM
 - Sponsored by [Bell Joy Ride/ Midwest Ms.Fits](https://www.facebook.com/BellJoyRideMadisonWI/)
 
@@ -138,7 +137,6 @@ Week-long discounts and activities
 
 ### Free Bikes 4 Kidz Madison bike donation week
 
-- [Various Sites around Madison](https://www.google.com/maps/search/?api=1&query=Various%20Sites%20around%20Madison%20Madison%2C%20WI)
 - Sponsored by [Free Bikes 4 Kidz Madison](https://fb4kmadison.org/)
 
 Have a bike you'd like to donate to someone who can't afford one? Drop it off at one of our participating bike donation locations around the city during Madison Bike Week!
@@ -146,7 +144,7 @@ Have a bike you'd like to donate to someone who can't afford one? Drop it off at
 
 ### Schwinn (Pacific Cycle) Swag Rides
 
-- [Schwinn (Pacific Cycle) Headquarters - 4902 Hammersley Road, Madison, WI 53711](https://www.google.com/maps/search/?api=1&query=Schwinn%20%28Pacific%20Cycle%29%20Headquarters%20-%204902%20Hammersley%20Road%2C%20Madison%2C%20WI%2053711%20Madison%2C%20WI)
+- [Schwinn (Pacific Cycle) Headquarters - 4902 Hammersley Road](https://www.google.com/maps/search/?api=1&query=Schwinn%20%28Pacific%20Cycle%29%20Headquarters%20-%204902%20Hammersley%20Road%20Madison%2C%20WI)
 - Sponsored by [Schwinn (Pacific Cycle)](https://www.pacific-cycle.com/)
 
 We've partnered with PeopleForBikes to set up several routes in the Ride Spot app which start and stop in the Schwinn (Pacific Cycle) parking lot! Participants will be encouraged to bring a non-perishable food item or toiletry for the food drive bin and then complete the route of their choice. Routes completed during Bike Week will be eligible for a Schwinn Swag item :)
@@ -187,7 +185,7 @@ Post a Story with a photo of yourself donating and hashtag #PedalForGood or #Bik
 
 ### Beers for Bikes
 
-- [Delta Beer Lab, 167 E Badger Rd 53713](https://www.google.com/maps/search/?api=1&query=Delta%20Beer%20Lab%2C%20167%20E%20Badger%20Rd%2053713%20Madison%2C%20WI)
+- [Delta Beer Lab, 167 E Badger Rd](https://www.google.com/maps/search/?api=1&query=Delta%20Beer%20Lab%2C%20167%20E%20Badger%20Rd%20Madison%2C%20WI)
 - 2:00 PM - 6:00 PM
 - Sponsored by [Delta Beer Lab](https://www.delta.beer/)
 
@@ -195,5 +193,5 @@ Bring in a gently used bicycle 2-6pm during Madison Bike Week, September 12-20th
 
 [\[up\]](#TOC)
 
-_Calendar last updated Aug 31, 2020, 2:44:50 PM_
+_Calendar last updated Aug 31, 2020, 2:53:25 PM_
 
