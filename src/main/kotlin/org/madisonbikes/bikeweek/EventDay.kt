@@ -27,8 +27,8 @@ data class EventDay(val localDate: LocalDate) : Comparable<EventDay> {
         val ALL_WEEK = EventDay(LocalDate.MIN)
 
         val ALL: List<EventDay> by lazy {
-            val retval = DAYS.toMutableList()
-            retval += ALL_WEEK
+            val retval = mutableListOf(ALL_WEEK)
+            retval += DAYS
             return@lazy retval
         }
     }
