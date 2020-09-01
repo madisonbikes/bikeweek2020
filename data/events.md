@@ -1,137 +1,4 @@
 
-Friday, September 11
---------------------
-
-### ["Pick Me Up At The Border" Bike Ride](https://runsignup.com/Race/WI/Fitchburg/PickMeUpattheBorder)
-
-- [2995 Sub-Zero Pkwy, Fitchburg](https://www.google.com/maps/search/?api=1&query=2995%20Sub-Zero%20Pkwy%2C%20Fitchburg%2C%20WI)
-- 7:00 PM
-- Sponsored by [Bike Fitchburg](http://www.bikefitchburg.org/)
-
-Join Bike Fitchburg for their annual "Pick Me Up At The Border" bike ride, September 11th! The ride begins at 7:00pm and riders will travel 80 miles round trip along the Badger State Trail to the Illinois border and back. 
-
-
-
-If you prefer a shorter ride, you can do the round trip 50 mile round trip from Monticello, or 25 mile round trip from Belleville.
-
-[\[up\]](#TOC)
-
-
-Saturday, September 12
-----------------------
-No events
-
-[\[up\]](#TOC)
-
-
-Sunday, September 13
---------------------
-
-### Cargo Bike Family Hour!
-
-- [The Cargo Bike Shop](https://www.google.com/maps/search/?api=1&query=The%20Cargo%20Bike%20Shop%20Madison%2C%20WI)
-- 10:00 AM - 11:30 AM
-- Sponsored by [The Cargo Bike Shop](https://www.facebook.com/thecargobikeshop/)
-
-A bike themed family-friendly event
-
-[\[up\]](#TOC)
-
-
-Monday, September 14
---------------------
-No events
-
-[\[up\]](#TOC)
-
-
-Tuesday, September 15
----------------------
-
-### Madison Bike Week Capital City Trail (John Nolen Dr.) Bike Station
-
-- [950 John Nolen Drive (Capital City Trail)](https://www.google.com/maps/search/?api=1&query=950%20John%20Nolen%20Drive%20%28Capital%20City%20Trail%29%20Madison%2C%20WI)
-- 7:00 AM - 9:00 AM
-- Sponsored by [Patrick Ellestad - Edward Jones](https://www.edwardjones.com/financial-advisor/index.html?CIRN=fX12YVb%2FhZwAXMzeHYvQfngm1BQdtgWmyuHc7eLZHdKmy1UgffFVzRwrC4Ij7bpZ)
-
-Bike stop/station with pre-packaged snack, water, Gatorade
-
-[\[up\]](#TOC)
-
-
-Wednesday, September 16
------------------------
-
-### Madison Bike Week Capital City Trail (John Nolen Dr.) Bike Station
-
-- [950 John Nolen Drive (Capital City Trail)](https://www.google.com/maps/search/?api=1&query=950%20John%20Nolen%20Drive%20%28Capital%20City%20Trail%29%20Madison%2C%20WI)
-- 7:00 AM - 9:00 AM
-- Sponsored by [Patrick Ellestad - Edward Jones](https://www.edwardjones.com/financial-advisor/index.html?CIRN=fX12YVb%2FhZwAXMzeHYvQfngm1BQdtgWmyuHc7eLZHdKmy1UgffFVzRwrC4Ij7bpZ)
-
-Bike stop/station with pre-packaged snack, water, Gatorade
-
-[\[up\]](#TOC)
-
-
-Thursday, September 17
-----------------------
-
-### [1st Annual Madison Brewery Bike Race](https://www.facebook.com/events/680460352681272?acontext=%7B%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D)
-
-- [Delta Beer Lab and Hop Haus Brewing Company](https://www.google.com/maps/search/?api=1&query=Delta%20Beer%20Lab%20and%20Hop%20Haus%20Brewing%20Company%20Madison%2C%20WI)
-- 11:00 AM - 7:00 PM
-- Sponsored by [Delta Beer Lab and Hop Haus Brewing Company](https://www.delta.beer/)
-
-Join us for the 1st annual Madison Brewery Bike Race! There is no marked course - just get from one brewery to the other and back as fast (or slow) as you can.
-
-
-
-Race for time or ride for fun. Riders must obey all traffic laws, wear face masks and practice social distancing.
-
-
-
-![Event flyer](https://images.squarespace-cdn.com/content/v1/59d533349f8dcea3fbc7d7af/1597964970547-L51VIDB096HVBXLVQP9G/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmN9YSRtfoTLg6dUq-6F17A0FFZK5fArcnK1IqGweyunyWChwIwkIJ_P7MaZif-uMs/Bike+Race+Instagram.png?format=750w)
-
-[\[up\]](#TOC)
-
-
-Friday, September 18
---------------------
-
-### Madison Bike Week Capital City Trail (John Nolen Dr.) Bike Station
-
-- [950 John Nolen Drive (Capital City Trail)](https://www.google.com/maps/search/?api=1&query=950%20John%20Nolen%20Drive%20%28Capital%20City%20Trail%29%20Madison%2C%20WI)
-- 7:00 AM - 9:00 AM
-- Sponsored by [Patrick Ellestad - Edward Jones](https://www.edwardjones.com/financial-advisor/index.html?CIRN=fX12YVb%2FhZwAXMzeHYvQfngm1BQdtgWmyuHc7eLZHdKmy1UgffFVzRwrC4Ij7bpZ)
-
-Bike stop/station with pre-packaged snack, water, Gatorade
-
-
-### [CamRock Women’s (trans inclusive) ride](https://facebook.com/events/s/bell-joy-ride-msfits-madison-b/1675342102623737/?ti=icl)
-
-- [CamRock 2](https://www.google.com/maps/search/?api=1&query=CamRock%202%20Madison%2C%20WI&query_place_id=ChIJr8URxtdoBogR3yHKHFagy0Y)
-- 5:15 PM - 7:30 PM
-- Sponsored by [Bell Joy Ride/ Midwest Ms.Fits](https://www.facebook.com/BellJoyRideMadisonWI/)
-
-Social-Distance Singletrack Ride, open to W/T/F identifying mountain bikers ages 18+
-
-[\[up\]](#TOC)
-
-
-Saturday, September 19
-----------------------
-No events
-
-[\[up\]](#TOC)
-
-
-Sunday, September 20
---------------------
-No events
-
-[\[up\]](#TOC)
-
-
 Week-long discounts and activities
 ----------------------------------
 
@@ -183,6 +50,23 @@ Help us meet a growing community need by donating food and supplies at participa
 Post a Story with a photo of yourself donating and hashtag #PedalForGood or #BikeFoodDrive to be entered into a drawing for a Saris bike rack at the end of the month!
 
 
+### Madison BCycle Free Membership
+
+- Sponsored by [Madison BCycle](https://www.bcycle.com/app)
+
+We’ve created a promo code: **`bikeweek2020`** which can be used by riders at the kiosk or on the mobile app as long as they don't have an existing membership with BCycle. This code offers a **free** one-month membership with unlimited 60-minute trips! Usage fees will still apply for any rides longer than 60 minutes @$3/30minutes. To avoid these fees, riders can check bikes into a dock and re-check out a bike immediately.
+
+
+
+1. Visit any [Madison BCycle station](https://madison.bcycle.com/nav/about/map)
+
+1. Download [app](https://www.bcycle.com/app) or find nearest station at madison.bcycle.com
+
+1. Go through steps at the kiosk to select ‘Monthly Pass’
+
+1. When asked ‘Have a Promo Code’ select ‘Yes’ and enter **`bikeweek2020`**
+
+
 ### Beers for Bikes
 
 - [Delta Beer Lab, 167 E Badger Rd](https://www.google.com/maps/search/?api=1&query=Delta%20Beer%20Lab%2C%20167%20E%20Badger%20Rd%20Madison%2C%20WI)
@@ -193,5 +77,138 @@ Bring in a gently used bicycle 2-6pm during Madison Bike Week, September 12-20th
 
 [\[up\]](#TOC)
 
-_Calendar last updated Aug 31, 2020, 2:53:25 PM_
+
+Friday, September 11
+--------------------
+
+### ["Pick Me Up At The Border" Bike Ride (*Bike Week Preview Night!)](https://runsignup.com/Race/WI/Fitchburg/PickMeUpattheBorder)
+
+- [2995 Sub-Zero Pkwy, Fitchburg](https://www.google.com/maps/search/?api=1&query=2995%20Sub-Zero%20Pkwy%2C%20Fitchburg%2C%20WI)
+- 7:00 PM
+- Sponsored by [Bike Fitchburg](http://www.bikefitchburg.org/)
+
+Join Bike Fitchburg for their annual "Pick Me Up At The Border" bike ride, September 11th to celebrate the start of bike week! The ride begins at 7:00pm and riders will travel 80 miles round trip along the Badger State Trail to the Illinois border and back. 
+
+
+
+If you prefer a shorter ride, you can do the round trip 50 mile round trip from Monticello, or 25 mile round trip from Belleville.
+
+[\[up\]](#TOC)
+
+
+Saturday, September 12
+----------------------
+No events
+
+[\[up\]](#TOC)
+
+
+Sunday, September 13
+--------------------
+
+### Cargo Bike Family Hour!
+
+- [The Cargo Bike Shop](https://www.google.com/maps/search/?api=1&query=The%20Cargo%20Bike%20Shop%20Madison%2C%20WI)
+- 10:00 AM - 11:30 AM
+- Sponsored by [The Cargo Bike Shop](https://www.facebook.com/thecargobikeshop/)
+
+A bike themed family-friendly event
+
+[\[up\]](#TOC)
+
+
+Monday, September 14
+--------------------
+No events
+
+[\[up\]](#TOC)
+
+
+Tuesday, September 15
+---------------------
+
+### Edward Jones Financial Services Bike Station
+
+- [950 John Nolen Drive (Capital City Trail)](https://www.google.com/maps/search/?api=1&query=950%20John%20Nolen%20Drive%20%28Capital%20City%20Trail%29%20Madison%2C%20WI)
+- 7:00 AM - 9:00 AM
+- Sponsored by [Patrick Ellestad - Edward Jones](https://www.edwardjones.com/financial-advisor/index.html?CIRN=fX12YVb%2FhZwAXMzeHYvQfngm1BQdtgWmyuHc7eLZHdKmy1UgffFVzRwrC4Ij7bpZ)
+
+Bike stop/station with pre-packaged snack, water, Gatorade
+
+[\[up\]](#TOC)
+
+
+Wednesday, September 16
+-----------------------
+
+### Edward Jones Financial Services Bike Station
+
+- [950 John Nolen Drive (Capital City Trail)](https://www.google.com/maps/search/?api=1&query=950%20John%20Nolen%20Drive%20%28Capital%20City%20Trail%29%20Madison%2C%20WI)
+- 7:00 AM - 9:00 AM
+- Sponsored by [Patrick Ellestad - Edward Jones](https://www.edwardjones.com/financial-advisor/index.html?CIRN=fX12YVb%2FhZwAXMzeHYvQfngm1BQdtgWmyuHc7eLZHdKmy1UgffFVzRwrC4Ij7bpZ)
+
+Bike stop/station with pre-packaged snack, water, Gatorade
+
+[\[up\]](#TOC)
+
+
+Thursday, September 17
+----------------------
+
+### [1st Annual Madison Brewery Bike Race](https://www.facebook.com/events/680460352681272?acontext=%7B%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D)
+
+- [Delta Beer Lab and Hop Haus Brewing Company](https://www.google.com/maps/search/?api=1&query=Delta%20Beer%20Lab%20and%20Hop%20Haus%20Brewing%20Company%20Madison%2C%20WI)
+- 11:00 AM - 7:00 PM
+- Sponsored by [Delta Beer Lab and Hop Haus Brewing Company](https://www.delta.beer/)
+
+Join us for the 1st annual Madison Brewery Bike Race! There is no marked course - just get from one brewery to the other and back as fast (or slow) as you can.
+
+
+
+Race for time or ride for fun. Riders must obey all traffic laws, wear face masks and practice social distancing.
+
+
+
+![Event flyer](https://images.squarespace-cdn.com/content/v1/59d533349f8dcea3fbc7d7af/1597964970547-L51VIDB096HVBXLVQP9G/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmN9YSRtfoTLg6dUq-6F17A0FFZK5fArcnK1IqGweyunyWChwIwkIJ_P7MaZif-uMs/Bike+Race+Instagram.png?format=750w)
+
+[\[up\]](#TOC)
+
+
+Friday, September 18
+--------------------
+
+### Edward Jones Financial Services Bike Station
+
+- [950 John Nolen Drive (Capital City Trail)](https://www.google.com/maps/search/?api=1&query=950%20John%20Nolen%20Drive%20%28Capital%20City%20Trail%29%20Madison%2C%20WI)
+- 7:00 AM - 9:00 AM
+- Sponsored by [Patrick Ellestad - Edward Jones](https://www.edwardjones.com/financial-advisor/index.html?CIRN=fX12YVb%2FhZwAXMzeHYvQfngm1BQdtgWmyuHc7eLZHdKmy1UgffFVzRwrC4Ij7bpZ)
+
+Bike stop/station with pre-packaged snack, water, Gatorade
+
+
+### [CamRock Women’s (trans inclusive) ride](https://facebook.com/events/s/bell-joy-ride-msfits-madison-b/1675342102623737/?ti=icl)
+
+- [CamRock 2](https://www.google.com/maps/search/?api=1&query=CamRock%202%20Madison%2C%20WI&query_place_id=ChIJr8URxtdoBogR3yHKHFagy0Y)
+- 5:15 PM - 7:30 PM
+- Sponsored by [Bell Joy Ride/ Midwest Ms.Fits](https://www.facebook.com/BellJoyRideMadisonWI/)
+
+Social-Distance Singletrack Ride, open to W/T/F identifying mountain bikers ages 18+
+
+[\[up\]](#TOC)
+
+
+Saturday, September 19
+----------------------
+No events
+
+[\[up\]](#TOC)
+
+
+Sunday, September 20
+--------------------
+No events
+
+[\[up\]](#TOC)
+
+_Calendar last updated Sep 1, 2020, 1:24:33 PM_
 
