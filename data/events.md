@@ -93,12 +93,16 @@ Join Bike Fitchburg for their annual "Pick Me Up At The Border" bike ride, Septe
 
 If you prefer a shorter ride, you can do the round trip 50 mile round trip from Monticello, or 25 mile round trip from Belleville.
 
+
+
+Registration fee required -- see site for details.
+
 [\[up\]](#TOC)
 
 
 Saturday, September 12
 ----------------------
-No events
+No events announced (yet!)
 
 [\[up\]](#TOC)
 
@@ -119,7 +123,7 @@ A bike themed family-friendly event
 
 Monday, September 14
 --------------------
-No events
+No events announced (yet!)
 
 [\[up\]](#TOC)
 
@@ -169,6 +173,10 @@ Race for time or ride for fun. Riders must obey all traffic laws, wear face mask
 
 
 
+Registration fee required -- see site for details. 
+
+
+
 ![Event flyer](https://images.squarespace-cdn.com/content/v1/59d533349f8dcea3fbc7d7af/1597964970547-L51VIDB096HVBXLVQP9G/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmN9YSRtfoTLg6dUq-6F17A0FFZK5fArcnK1IqGweyunyWChwIwkIJ_P7MaZif-uMs/Bike+Race+Instagram.png?format=750w)
 
 [\[up\]](#TOC)
@@ -199,16 +207,16 @@ Social-Distance Singletrack Ride, open to W/T/F identifying mountain bikers ages
 
 Saturday, September 19
 ----------------------
-No events
+No events announced (yet!)
 
 [\[up\]](#TOC)
 
 
 Sunday, September 20
 --------------------
-No events
+No events announced (yet!)
 
 [\[up\]](#TOC)
 
-_Calendar last updated Sep 1, 2020, 1:24:33 PM_
+_Calendar last updated Sep 1, 2020, 1:32:40 PM_
 

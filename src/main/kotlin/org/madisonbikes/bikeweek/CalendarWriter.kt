@@ -37,7 +37,7 @@ class CalendarWriter(
                         outputEvent(calendarSink, it, level + 1)
                     }
                 if (dayCount == 0) {
-                    calendarSink += "No events\n\n"
+                    calendarSink += "No events announced (yet!)\n\n"
                 }
                 if (!forPrint) {
                     calendarSink += createLink("\\[up\\]", "#TOC")
