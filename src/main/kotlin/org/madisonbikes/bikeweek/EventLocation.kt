@@ -16,8 +16,8 @@ data class EventLocation(
         }
     }
 
-    val showOnMap: Boolean
-        get() = mapsDescription?.isNotBlank() ?: false
+    val showOnMap
+        get() = mapsDescription.isNullOrBlank()
 
     val mapsQuery: String
         get() {

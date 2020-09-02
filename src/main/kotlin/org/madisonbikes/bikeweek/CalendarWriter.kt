@@ -78,10 +78,10 @@ class CalendarWriter(
 
         val listBuilder = ListBuilder()
 
-        if (location.showOnMap) {
+        if(location.mapsDescription != null) {
             val link = createLink(requireNotNull(location.mapsDescription), urlBuilder.toString())
             listBuilder.append(Text("$link"))
-        } else if (!location.freeformMarkdownDescription.isNullOrBlank()) {
+        } else if (location.freeformMarkdownDescription != null) {
             var text = location.freeformMarkdownDescription
             if (forPrint) {
                 text = text.stripMarkdownLinks()
