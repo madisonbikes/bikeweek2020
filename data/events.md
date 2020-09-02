@@ -223,7 +223,7 @@ Sunday, September 20
 
 ### [1st Annual Madison Brewery Bike Race](https://www.facebook.com/events/680460352681272?acontext=%7B%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D)
 
-- [Delta Beer Lab](https://www.google.com/maps/place/Delta+Beer+Lab/@43.0370356,-89.3844482,17z/data=!3m1!4b1!4m5!3m4!1s0x88065355273662d7:0xe6d0c98465597d1e!8m2!3d43.0370356!4d-89.3822595) and [Hop Haus Brewing Company](https://www.google.com/maps/place/Hop+Haus+Brewing+Company/@42.9880535,-89.5352543,17z/data=!3m1!4b1!4m5!3m4!1s0x8807b067b51bd083:0xe0b8c459ed37ef8b!8m2!3d42.9880535!4d-89.5330656)
+- [Delta Beer Lab](https://www.google.com/maps/place/Delta+Beer+Lab/@43.0370356,-89.3844482,17z/data=!3m1!4b1!4m5!3m4!1s0x88065355273662d7:0xe6d0c98465597d1e!8m2!3d43.0370356!4d-89.3822595) and [Hop Haus Brewing Company - Fitchburg](https://www.google.com/maps/place/Hop+Haus+Brewing+Company/@43.0051526,-89.4612519,17z/data=!3m1!4b1!4m5!3m4!1s0x8807b33a3da5cd09:0x3d5d6c5bcc349f46!8m2!3d43.0051526!4d-89.4590632)
 - 11:00 AM - 7:00 PM
 - Sponsored by [Delta Beer Lab](https://www.delta.beer/) and [Hop Haus Brewing Company](https://www.hophausbrewing.com/)
 
@@ -243,5 +243,5 @@ Registration fee required -- see site for details.
 
 [\[up\]](#TOC)
 
-_Calendar last updated Sep 2, 2020, 2:51:43 PM_
+_Calendar last updated Sep 2, 2020, 2:55:50 PM_
 
