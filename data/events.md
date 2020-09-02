@@ -2,7 +2,7 @@
 Week-long discounts and activities
 ----------------------------------
 
-### Free Bikes 4 Kidz Madison bike donation week
+### [Free Bikes 4 Kidz Madison bike donation week](https://www.facebook.com/freebikesmadison)
 
 - Sponsored by [Free Bikes 4 Kidz Madison](https://fb4kmadison.org/)
 
@@ -65,6 +65,21 @@ We’ve created a promo code: **`bikeweek2020`** which can be used by riders at 
 1. Go through steps at the kiosk to select ‘Monthly Pass’
 
 1. When asked ‘Have a Promo Code’ select ‘Yes’ and enter **`bikeweek2020`**
+
+
+### UW-Madison Bike Scavenger Hunt
+
+- Sponsored by [UW-Madison Transportation Services](https://transportation.wisc.edu/bicycling/)
+
+A month-long, campus-wide bike scavenger hunt open to UW-Madison students, faculty, and staff. Event runs September 2 – 30. Download the free GooseChase app (Apple App Store or Google Play), search for “UW-Mad Bike Scavengers,” and get started on your first mission. You’ll have the chance to learn more about campus and Madison and even compete to win prizes!
+
+
+### Fichburg Cycles Bike Week Discount
+
+- [2970 Cahill Main Suite 101 Fitchburg, WI 53711](https://www.google.com/maps/search/?api=1&query=2970%20Cahill%20Main%20Suite%20101%20Fitchburg%2C%20WI%2053711%20Madison%2C%20WI)
+- Sponsored by [Fitchburg Cycles](https://www.fitchburgcycles.com/)
+
+20% off in-store for bike week. Limitations apply on discount offer, contact shop for further details. (No discounts on bikes, labor, car racks, trainers, or special order items.) Discount applies to any individuals who ride to the shop and show their helmet.
 
 
 ### Beers for Bikes
@@ -139,6 +154,16 @@ Tuesday, September 15
 
 Bike stop/station with pre-packaged snack, water, Gatorade
 
+
+### [“Bicycle Flat Fix” Virtual Class](https://transportation.wisc.edu/event/urbc-virtual-class-bicycle-flat-fix/)
+
+- 7:00 PM - 8:30 PM
+- Sponsored by [UW-Madison Transportation Services](https://transportation.wisc.edu/bicycling/)
+
+“Bicycle Flat Fix” virtual class – September 15, 7-8:30 p.m. Class taught by India Viola, local bicycle advocate and educator. Learn what you need to fix flat tires with confidence in this in-depth flat fix clinic for front wheels. Pre-registration is required at Bicycle Flat Fix Class – WebEx online registration.
+
+Limited to 12 attendees, with a waitlist available. Once you are approved by the host, you will receive a confirmation email with instructions for joining the session.
+
 [\[up\]](#TOC)
 
 
@@ -158,26 +183,7 @@ Bike stop/station with pre-packaged snack, water, Gatorade
 
 Thursday, September 17
 ----------------------
-
-### [1st Annual Madison Brewery Bike Race](https://www.facebook.com/events/680460352681272?acontext=%7B%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D)
-
-- [Delta Beer Lab and Hop Haus Brewing Company](https://www.google.com/maps/search/?api=1&query=Delta%20Beer%20Lab%20and%20Hop%20Haus%20Brewing%20Company%20Madison%2C%20WI)
-- 11:00 AM - 7:00 PM
-- Sponsored by [Delta Beer Lab and Hop Haus Brewing Company](https://www.delta.beer/)
-
-Join us for the 1st annual Madison Brewery Bike Race! There is no marked course - just get from one brewery to the other and back as fast (or slow) as you can.
-
-
-
-Race for time or ride for fun. Riders must obey all traffic laws, wear face masks and practice social distancing.
-
-
-
-Registration fee required -- see site for details. 
-
-
-
-![Event flyer](https://images.squarespace-cdn.com/content/v1/59d533349f8dcea3fbc7d7af/1597964970547-L51VIDB096HVBXLVQP9G/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmN9YSRtfoTLg6dUq-6F17A0FFZK5fArcnK1IqGweyunyWChwIwkIJ_P7MaZif-uMs/Bike+Race+Instagram.png?format=750w)
+No events announced (yet!)
 
 [\[up\]](#TOC)
 
@@ -214,9 +220,28 @@ No events announced (yet!)
 
 Sunday, September 20
 --------------------
-No events announced (yet!)
+
+### [1st Annual Madison Brewery Bike Race](https://www.facebook.com/events/680460352681272?acontext=%7B%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D)
+
+- [Delta Beer Lab and Hop Haus Brewing Company](https://www.google.com/maps/search/?api=1&query=Delta%20Beer%20Lab%20and%20Hop%20Haus%20Brewing%20Company%20Madison%2C%20WI)
+- 11:00 AM - 7:00 PM
+- Sponsored by [Delta Beer Lab and Hop Haus Brewing Company](https://www.delta.beer/)
+
+Join us for the 1st annual Madison Brewery Bike Race! There is no marked course - just get from one brewery to the other and back as fast (or slow) as you can.
+
+
+
+Race for time or ride for fun. Riders must obey all traffic laws, wear face masks and practice social distancing.
+
+
+
+Registration fee required -- see site for details. 
+
+
+
+![Event flyer](https://images.squarespace-cdn.com/content/v1/59d533349f8dcea3fbc7d7af/1598725864107-S9YKVD96CG3Y60ASEF0V/ke17ZwdGBToddI8pDm48kKlnEJe-S6O_EkCaG3agFGRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI5hzhLde4hvatJsNly355ffNU5CmVUljmMZYTraQzQ-A/Bike+Race+Facebook+%281%29.png?format=500w)
 
 [\[up\]](#TOC)
 
-_Calendar last updated Sep 1, 2020, 1:32:40 PM_
+_Calendar last updated Sep 2, 2020, 1:59:19 PM_
 
