@@ -225,7 +225,7 @@ Sunday, September 20
 
 - [Delta Beer Lab and Hop Haus Brewing Company](https://www.google.com/maps/search/?api=1&query=Delta%20Beer%20Lab%20and%20Hop%20Haus%20Brewing%20Company%20Madison%2C%20WI)
 - 11:00 AM - 7:00 PM
-- Sponsored by [Delta Beer Lab and Hop Haus Brewing Company](https://www.delta.beer/)
+- Sponsored by [Delta Beer Lab](https://www.delta.beer/) and [Hop Haus Brewing Company](https://www.hophausbrewing.com/)
 
 Join us for the 1st annual Madison Brewery Bike Race! There is no marked course - just get from one brewery to the other and back as fast (or slow) as you can.
 
@@ -243,5 +243,5 @@ Registration fee required -- see site for details.
 
 [\[up\]](#TOC)
 
-_Calendar last updated Sep 2, 2020, 1:59:19 PM_
+_Calendar last updated Sep 2, 2020, 2:06:11 PM_
 
