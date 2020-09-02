@@ -4,9 +4,17 @@ data class EventLocation(
     val mapsDescription: String?,
     val freeformMarkdownDescription: String?,
     val mapsQueryBase: String?,
-    val mapsPlaceId: String?,
-    val outsideOfMadison: Boolean
+    val mapsPlaceId: String?
 ) {
+    companion object {
+        val regionalCities = listOf("Fitchburg", "Middleton", "Verona", "Sun Prairie", "McFarland")
+    }
+
+    private val outsideMadison by lazy {
+        regionalCities.any {
+            mapsDescription?.endsWith(", $it") ?: false
+        }
+    }
 
     val showOnMap: Boolean
         get() = mapsDescription?.isNotBlank() ?: false
@@ -16,7 +24,7 @@ data class EventLocation(
             return if (!mapsQueryBase.isNullOrBlank()) {
                 mapsQueryBase
             } else {
-                if (outsideOfMadison) {
+                if (outsideMadison) {
                     "$mapsDescription, WI"
                 } else {
                     "$mapsDescription Madison, WI"

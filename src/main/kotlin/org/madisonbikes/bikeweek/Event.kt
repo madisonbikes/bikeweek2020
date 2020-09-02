@@ -24,10 +24,10 @@ data class Event(
             val sponsorUrls = item.getValue("sponsor_urls")
                 .split(",")
                 .map { it.trim() }
-            val mapsDescription = item.getValue("maps_description").trim()
-            val mapsQuery = item.getValue("maps_query")
-            val mapsPlaceId = item.getValue("maps_placeid")
-            val locationFreeText = item.getValue("location_free")
+            val mapsDescription = item.getValue("maps_description").trim().ifBlank { null }
+            val mapsQuery = item.getValue("maps_query").trim().ifBlank { null }
+            val mapsPlaceId = item.getValue("maps_placeid").trim().ifBlank { null }
+            val locationFreeText = item.getValue("location_free").trim().ifBlank { null }
             val type = item.getValue("type")
                 .split(",")
                 .map { it.trim() }
@@ -54,13 +54,11 @@ data class Event(
                     EventTime.fromString(it)
                 }
                 .toSortedSet()
-            val outsideOfMadison = item.getValue("outside_of_madison").trim().toBoolean()
 
             val eventLocation = EventLocation(
                 mapsDescription = mapsDescription,
                 mapsQueryBase = mapsQuery,
                 mapsPlaceId = mapsPlaceId,
-                outsideOfMadison = outsideOfMadison,
                 freeformMarkdownDescription = locationFreeText
             )
 
