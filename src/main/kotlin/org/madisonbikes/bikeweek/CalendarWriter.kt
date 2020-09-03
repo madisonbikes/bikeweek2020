@@ -78,7 +78,7 @@ class CalendarWriter(
 
         val listBuilder = ListBuilder()
 
-        if(location.mapsDescription != null) {
+        if (location.mapsDescription != null) {
             val link = createLink(requireNotNull(location.mapsDescription), urlBuilder.toString())
             listBuilder.append(Text("$link"))
         } else if (location.freeformMarkdownDescription != null) {
@@ -132,6 +132,12 @@ class CalendarWriter(
                 mdDescription = mdDescription.stripMarkdownLinks()
             }
             calendarSink += "$mdDescription\n\n"
+        }
+        val icons = event.eventTypes
+            .mapNotNull { it.fontAwesomeIcon }
+            .joinToString(separator = "&nbsp;") { "<i class=\"fas fa-$it\"></i>" }
+        if (icons.isNotBlank()) {
+            calendarSink += "$icons\n\n"
         }
     }
 
