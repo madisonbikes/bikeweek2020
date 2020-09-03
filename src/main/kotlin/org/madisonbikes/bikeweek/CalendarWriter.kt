@@ -134,8 +134,8 @@ class CalendarWriter(
             calendarSink += "$mdDescription\n\n"
         }
         val icons = event.eventTypes
-            .mapNotNull { it.fontAwesomeIcon }
-            .joinToString(separator = "&nbsp;") { "<i class=\"fas fa-$it\"></i>" }
+            .filter { it.fontAwesomeIcon != null}
+            .joinToString(separator = "&nbsp;") { "<i class=\"fas fa-${it.fontAwesomeIcon}\" title=\"${it.description}\"></i>" }
         if (icons.isNotBlank()) {
             calendarSink += "$icons\n\n"
         }
