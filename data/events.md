@@ -16,12 +16,16 @@ Have a bike you'd like to donate to someone who can't afford one? Drop it off at
 
 We've partnered with PeopleForBikes to set up several routes in the Ride Spot app which start and stop in the Schwinn (Pacific Cycle) parking lot! Participants will be encouraged to bring a non-perishable food item or toiletry for the food drive bin and then complete the route of their choice. Routes completed during Bike Week will be eligible for a Schwinn Swag item :)
 
+<i class="fas fa-route"></i>&nbsp;<i class="fas fa-gift"></i>
+
 
 ### [Bike Benefits Blitz](https://www.facebook.com/BicycleBenefitsMadison)
 
 - Sponsored by [Bicycle Benefits Madison](https://www.bicyclebenefits.org/)
 
 The #BikeBenefitsBlitz photo challenge starts on the 1st of September. Look at the [www.bicyclebenefits.org](https://www.bicyclebenefits.org) map of all the unique places around the area and plan on visiting a new place EVERY day in September. Every unique place where you use Bicycle Benefits and post a photo counts. Prizes will be sweet and the bike rides will be even better!
+
+<i class="fas fa-route"></i>
 
 
 ### [Love to Ride - Cycle September](https://www.lovetoride.net/madison?locale=en-US)
@@ -38,6 +42,8 @@ Individuals and workplaces will compete locally, nationally and worldwide to ear
 
 You can ride anywhere, anytime during September - just a 10 minute ride is enough to take part.
 
+<i class="fas fa-route"></i>&nbsp;<i class="fas fa-gift"></i>
+
 
 ### [Pedal for Good Community Food Drive](https://www.lovetoride.net/madison/pages/info?locale=en-US&page=2_events&fbclid=IwAR0a3eyE_nsYTyWKRDmjxq0FrrobBWgJO4919OQ3NNKdZP-0SAxt6O3BPNM)
 
@@ -48,6 +54,8 @@ Help us meet a growing community need by donating food and supplies at participa
 
 
 Post a Story with a photo of yourself donating and hashtag #PedalForGood or #BikeFoodDrive to be entered into a drawing for a Saris bike rack at the end of the month!
+
+<i class="fas fa-route"></i>&nbsp;<i class="fas fa-gift"></i>
 
 
 ### Madison BCycle Free Membership
@@ -66,6 +74,8 @@ We’ve created a promo code: **`bikeweek2020`** which can be used by riders at 
 
 1. When asked ‘Have a Promo Code’ select ‘Yes’ and enter **`bikeweek2020`**
 
+<i class="fas fa-gift"></i>
+
 
 ### UW-Madison Bike Scavenger Hunt
 
@@ -73,8 +83,10 @@ We’ve created a promo code: **`bikeweek2020`** which can be used by riders at 
 
 A month-long, campus-wide bike scavenger hunt open to UW-Madison students, faculty, and staff. Event runs September 2 – 30. Download the free GooseChase app (Apple App Store or Google Play), search for “UW-Mad Bike Scavengers,” and get started on your first mission. You’ll have the chance to learn more about campus and Madison and even compete to win prizes!
 
+<i class="fas fa-route"></i>&nbsp;<i class="fas fa-gift"></i>
 
-### Fichburg Cycles Bike Week Discount
+
+### Fitchburg Cycles Bike Week Discount
 
 - [2970 Cahill Main Suite 101 Fitchburg, WI 53711](https://www.google.com/maps/search/?api=1&query=2970%20Cahill%20Main%20Suite%20101%20Fitchburg%2C%20WI%2053711%20Madison%2C%20WI)
 - Sponsored by [Fitchburg Cycles](https://www.fitchburgcycles.com/)
@@ -111,6 +123,8 @@ If you prefer a shorter ride, you can do the round trip 50 mile round trip from 
 
 
 Registration fee required -- see site for details.
+
+<i class="fas fa-route"></i>&nbsp;<i class="fas fa-dollar-sign"></i>
 
 [\[up\]](#TOC)
 
@@ -178,6 +192,14 @@ Wednesday, September 16
 
 Bike stop/station with pre-packaged snack, water, Gatorade
 
+
+### [Cargo Bikes & Business](https://us02web.zoom.us/meeting/register/tZ0pceuqqz4pG9ynaEKqWKDcciGXJba7nfh_)
+
+- 12:00 PM - 1:00 PM
+- Sponsored by [City of Madison](https://www.cityofmadison.com/) and [Downtown Madison Inc](https://downtownmadison.org/)
+
+The 2015 Bicycle Plan recommended increasing the use of bicycles by city agencies and providing support for local businesses to use bicycles for freight, cargo and other uses. Join us during Bike Week to learn more about how cargo bikes are being used right here in Madison by City departments as well as by local businesses. Learn more, ask questions and discuss how you and your business could make use of this environmentally friendly, healthy mode of transportation. Zoom Registration: https://us02web.zoom.us/meeting/register/tZ0pceuqqz4pG9ynaEKqWKDcciGXJba7nfh_
+
 [\[up\]](#TOC)
 
 
@@ -207,6 +229,8 @@ Bike stop/station with pre-packaged snack, water, Gatorade
 - Sponsored by [Bell Joy Ride/ Midwest Ms.Fits](https://www.facebook.com/BellJoyRideMadisonWI/)
 
 Social-Distance Singletrack Ride, open to W/T/F identifying mountain bikers ages 18+
+
+<i class="fas fa-route"></i>
 
 [\[up\]](#TOC)
 
@@ -241,7 +265,9 @@ Registration fee required -- see site for details.
 
 ![Event flyer](https://images.squarespace-cdn.com/content/v1/59d533349f8dcea3fbc7d7af/1598725864107-S9YKVD96CG3Y60ASEF0V/ke17ZwdGBToddI8pDm48kKlnEJe-S6O_EkCaG3agFGRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI5hzhLde4hvatJsNly355ffNU5CmVUljmMZYTraQzQ-A/Bike+Race+Facebook+%281%29.png?format=500w)
 
+<i class="fas fa-route"></i>&nbsp;<i class="fas fa-dollar-sign"></i>
+
 [\[up\]](#TOC)
 
-_Calendar last updated Sep 2, 2020, 2:55:50 PM_
+_Calendar last updated Sep 3, 2020, 5:37:24 PM_
 
