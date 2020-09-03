@@ -134,6 +134,7 @@ class CalendarWriter(
             calendarSink += "$mdDescription\n\n"
         }
         val icons = event.eventTypes
+            .sortedBy { it.ordinal }
             .filter { it.fontAwesomeIcon != null}
             .joinToString(separator = "&nbsp;") { "<i class=\"fas fa-${it.fontAwesomeIcon}\" title=\"${it.description}\"></i>" }
         if (icons.isNotBlank()) {
