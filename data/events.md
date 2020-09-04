@@ -8,6 +8,80 @@ Week-long discounts and activities
 
 Have a bike you'd like to donate to someone who can't afford one? Drop it off at one of our participating bike donation locations around the city during Madison Bike Week!
 
+
+
+
+
+During Madison Bike Week, September 12-20, Free Bikes 4 Kidz Madison is partnering with some local organizations to collect bike donations. If you have a gently used bike that you no longer need and want it to have a new owner that wouldn’t otherwise be able to afford one, please consider donating it to Free Bikes 4 Kidz! 
+
+
+
+Each year, Free Bikes 4 Kidz Madison gives over 1,000 bikes to low income and underserved communities throughout Dane County. We’ve set a lofty goal of giving away 2,000 bikes in 2021 but we need your help to make it happen! 
+
+
+
+### FB4K MADISON BIKE DONATION STATIONS
+
+
+
+#### Just South of the Beltline at Rimrock Road
+
+
+
+*Delta Beer Lab*, 167 E. Badger Road, Madison, [www.delta.beer](http://www.delta.beer)
+
+
+
+Delta is supporting FB4K by offering Beers for Bikes! Donate a bike and get a pint of their locally brewed craft beer! Drop off your bike donation anytime during Bike Week and the hours of 2pm-6pm at Delta Beer Lab on Madison’s south side. 
+
+
+
+#### East Side
+
+
+
+*Slow Roll Cycles*, 4118 Monona Drive, Madison, [slowrollcycles.com](http://slowrollcycles.com)
+
+
+
+Slow Roll is supporting FB4K by hosting a bike donation station during Bike Week! Drop off your gently used bikes at their east side location between the hours of M-F 10am-6pm; Sat 10am-5pm; Sun 11am-4pm. You’ll receive 10% off any regular price in stock item (except bikes & car racks). 
+
+
+
+#### North Side
+
+
+
+*Madison Mallards Duck Pond at Warner Park*, 2920 N. Sherman Avenue, Madison, [MallardsBaseball.com](http://MallardsBaseball.com)
+
+
+
+Drop your bike donations off 12-5pm Monday-Saturday or by appointment by emailing info@mallardsbaseball.com. You’ll receive a complimentary Mallards hat when you donate your gently used bikes!
+
+
+
+#### West Side
+
+
+
+*Keva Sports Center*, 8312 Forsythia Street, Middleton, [KevaSports.com](http://KevaSports.com)
+
+
+
+Drop your bike donations off between 9am-11pm Monday through Friday at Keva.
+
+
+
+#### Fitchburg
+
+
+
+*Race Day Events and Griessmeyer Law*, 2995 Sub Zero Parkway, Fitchburg, [RaceDayEvents.com](http://RaceDayEvents.com) [GriessmeyerLaw.com](http://GriessmeyerLaw.com)
+
+
+
+Drop off your gently used bikes anytime between 9am–4pm Monday-Friday. You’ll get a free water bottle and a Hop Haus Beer with your donation!
+
 <i class="fas fa-hand-holding-heart" title="Donation Site"></i>
 
 
@@ -25,7 +99,17 @@ We've partnered with PeopleForBikes to set up several routes in the Ride Spot ap
 
 - Sponsored by [Bicycle Benefits Madison](https://www.bicyclebenefits.org/)
 
-The #BikeBenefitsBlitz photo challenge starts on the 1st of September. Look at the [www.bicyclebenefits.org](https://www.bicyclebenefits.org) map of all the unique places around the area and plan on visiting a new place EVERY day in September. Every unique place where you use Bicycle Benefits and post a photo counts. Prizes will be sweet and the bike rides will be even better!
+The #BikeBenefitsBlitz photo challenge starts on the 1st of September. Look at the [www.bicyclebenefits.org](https://www.bicyclebenefits.org) map of all the unique places around the area and plan on visiting a new place EVERY day in September. Every unique place where you use Bicycle Benefits and post a photo counts. Prizes will be sweet and the bike rides will be even better!   
+
+
+
+1. Pick up a $5 Bicycle Benefits helmet sticker at a local business  
+
+1.  Use it at bike-loving places and post photos of your adventure.
+
+1. Win gift cards based on how many spots you use it during September.
+
+<a href="https://www.madisonbikes.org/wp-content/uploads/2020/09/BBB.png"><img src="https://www.madisonbikes.org/wp-content/uploads/2020/09/BBB.png" width="500px" title="Event Flyer"></img></a>
 
 <i class="fas fa-percent" title="Rider discounts"></i>&nbsp;<i class="fas fa-map-marked-alt" title="Rides and Routes"></i>
 
@@ -34,7 +118,7 @@ The #BikeBenefitsBlitz photo challenge starts on the 1st of September. Look at t
 
 - Sponsored by [Love to Ride Madison](https://www.lovetoride.net/madison?locale=en-US)
 
-Cycle September brings the National Bike Challenge to a close. Your rides will help your club/group continue to climb the leaderboard and finish the NBC on a high note. For September you can also take part with your workplace and compete against others worldwide.
+Cycle September brings the National Bike Challenge to a close. Your rides will help your club/group continue to climb the leaderboard and finish the NBC on a high note. For September you can also take part with your workplace and compete against others worldwide. If you want to show your support for Madison Bikes, join the [Madison Bikes group on Love to Ride](https://www.lovetoride.net/madison/groups/2597?locale=en-US)
 
 
 
@@ -210,7 +294,11 @@ Bike stop/station with pre-packaged snack, water, Gatorade
 - 12:00 PM - 1:00 PM
 - Sponsored by [City of Madison](https://www.cityofmadison.com/) and [Downtown Madison Inc](https://downtownmadison.org/)
 
-The 2015 Bicycle Plan recommended increasing the use of bicycles by city agencies and providing support for local businesses to use bicycles for freight, cargo and other uses. Join us during Bike Week to learn more about how cargo bikes are being used right here in Madison by City departments as well as by local businesses. Learn more, ask questions and discuss how you and your business could make use of this environmentally friendly, healthy mode of transportation. Zoom Registration: https://us02web.zoom.us/meeting/register/tZ0pceuqqz4pG9ynaEKqWKDcciGXJba7nfh_
+The 2015 Bicycle Plan recommended increasing the use of bicycles by city agencies and providing support for local businesses to use bicycles for freight, cargo and other uses. Join us during Bike Week to learn more about how cargo bikes are being used right here in Madison by City departments as well as by local businesses. Learn more, ask questions and discuss how you and your business could make use of this environmentally friendly, healthy mode of transportation. 
+
+
+
+Zoom Registration: https://us02web.zoom.us/meeting/register/tZ0pceuqqz4pG9ynaEKqWKDcciGXJba7nfh_
 
 <i class="fas fa-video" title="Virtual Event"></i>
 
@@ -275,15 +363,13 @@ Race for time or ride for fun. Riders must obey all traffic laws, wear face mask
 
 
 
-Registration fee required -- see site for details. 
+Registration fee required -- see site for details.
 
-
-
-![Event flyer](https://images.squarespace-cdn.com/content/v1/59d533349f8dcea3fbc7d7af/1598725864107-S9YKVD96CG3Y60ASEF0V/ke17ZwdGBToddI8pDm48kKlnEJe-S6O_EkCaG3agFGRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI5hzhLde4hvatJsNly355ffNU5CmVUljmMZYTraQzQ-A/Bike+Race+Facebook+%281%29.png?format=500w)
+<a href="https://images.squarespace-cdn.com/content/v1/59d533349f8dcea3fbc7d7af/1598725864107-S9YKVD96CG3Y60ASEF0V/ke17ZwdGBToddI8pDm48kKlnEJe-S6O_EkCaG3agFGRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI5hzhLde4hvatJsNly355ffNU5CmVUljmMZYTraQzQ-A/Bike+Race+Facebook+%281%29.png?format=500w"><img src="https://images.squarespace-cdn.com/content/v1/59d533349f8dcea3fbc7d7af/1598725864107-S9YKVD96CG3Y60ASEF0V/ke17ZwdGBToddI8pDm48kKlnEJe-S6O_EkCaG3agFGRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI5hzhLde4hvatJsNly355ffNU5CmVUljmMZYTraQzQ-A/Bike+Race+Facebook+%281%29.png?format=500w" width="500px" title="Event Flyer"></img></a>
 
 <i class="fas fa-map-marked-alt" title="Rides and Routes"></i>&nbsp;<i class="fas fa-dollar-sign" title="Paid Event"></i>
 
 [\[up\]](#TOC)
 
-_Calendar last updated Sep 3, 2020, 6:04:53 PM_
+_Calendar last updated Sep 4, 2020, 4:25:24 PM_
 

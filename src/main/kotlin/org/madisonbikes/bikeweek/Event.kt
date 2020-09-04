@@ -11,7 +11,8 @@ data class Event(
     val location: EventLocation,
     val eventTypes: Set<EventType>,
     val eventDays: SortedSet<EventDay>,
-    val eventTimes: SortedSet<EventTime>
+    val eventTimes: SortedSet<EventTime>,
+    val flyerUrl: String?,
 ) {
     companion object {
         fun fromMapPairs(item: Map<String, String>): Event {
@@ -55,6 +56,8 @@ data class Event(
                 }
                 .toSortedSet()
 
+            val flyerUrl = item.getValue("flyer_url").ifBlank { null }
+
             val eventLocation = EventLocation(
                 mapsDescription = mapsDescription,
                 mapsQueryBase = mapsQuery,
@@ -71,7 +74,8 @@ data class Event(
                 location = eventLocation,
                 eventTypes = type,
                 eventDays = days,
-                eventTimes = times
+                eventTimes = times,
+                flyerUrl = flyerUrl,
             )
         }
     }

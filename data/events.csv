@@ -1,39 +1,80 @@
-name,event_url,description,sponsor,sponsor_urls,maps_description,maps_query,maps_placeid,location_free,type,days,time
-Edward Jones Financial Services Bike Station,,"Bike stop/station with pre-packaged snack, water, Gatorade",Patrick Ellestad - Edward Jones,https://www.edwardjones.com/financial-advisor/index.html?CIRN=fX12YVb%2FhZwAXMzeHYvQfngm1BQdtgWmyuHc7eLZHdKmy1UgffFVzRwrC4Ij7bpZ,950 John Nolen Drive (Capital City Trail),,,,"station_food, giveaways","15, 16, 18",7AM - 9AM
-Free Bikes 4 Kidz Madison bike donation week,https://www.facebook.com/freebikesmadison,Have a bike you'd like to donate to someone who can't afford one? Drop it off at one of our participating bike donation locations around the city during Madison Bike Week!,Free Bikes 4 Kidz Madison,https://fb4kmadison.org/,,,,,donation_site,0,
-CamRock Women’s (trans inclusive) ride,https://facebook.com/events/s/bell-joy-ride-msfits-madison-b/1675342102623737/?ti=icl,"Social-Distance Singletrack Ride, open to W/T/F identifying mountain bikers ages 18+",Bell Joy Ride/ Midwest Ms.Fits,"https://www.facebook.com/BellJoyRideMadisonWI/, https://www.msfitbike.com/",CamRock 2,,ChIJr8URxtdoBogR3yHKHFagy0Y,,ride,18,5:15PM - 7:30PM
+name,event_url,description,sponsor,sponsor_urls,maps_description,maps_query,maps_placeid,location_free,type,days,time,flyer_url
+Edward Jones Financial Services Bike Station,,"Bike stop/station with pre-packaged snack, water, Gatorade",Patrick Ellestad - Edward Jones,https://www.edwardjones.com/financial-advisor/index.html?CIRN=fX12YVb%2FhZwAXMzeHYvQfngm1BQdtgWmyuHc7eLZHdKmy1UgffFVzRwrC4Ij7bpZ,950 John Nolen Drive (Capital City Trail),,,,"station_food, giveaways","15, 16, 18",7AM - 9AM,
+Free Bikes 4 Kidz Madison bike donation week,https://www.facebook.com/freebikesmadison,"Have a bike you'd like to donate to someone who can't afford one? Drop it off at one of our participating bike donation locations around the city during Madison Bike Week!
+
+
+During Madison Bike Week, September 12-20, Free Bikes 4 Kidz Madison is partnering with some local organizations to collect bike donations. If you have a gently used bike that you no longer need and want it to have a new owner that wouldn’t otherwise be able to afford one, please consider donating it to Free Bikes 4 Kidz! 
+
+Each year, Free Bikes 4 Kidz Madison gives over 1,000 bikes to low income and underserved communities throughout Dane County. We’ve set a lofty goal of giving away 2,000 bikes in 2021 but we need your help to make it happen! 
+
+### FB4K MADISON BIKE DONATION STATIONS
+
+#### Just South of the Beltline at Rimrock Road
+
+*Delta Beer Lab*, 167 E. Badger Road, Madison, [www.delta.beer](http://www.delta.beer)
+
+Delta is supporting FB4K by offering Beers for Bikes! Donate a bike and get a pint of their locally brewed craft beer! Drop off your bike donation anytime during Bike Week and the hours of 2pm-6pm at Delta Beer Lab on Madison’s south side. 
+
+#### East Side
+
+*Slow Roll Cycles*, 4118 Monona Drive, Madison, [slowrollcycles.com](http://slowrollcycles.com)
+
+Slow Roll is supporting FB4K by hosting a bike donation station during Bike Week! Drop off your gently used bikes at their east side location between the hours of M-F 10am-6pm; Sat 10am-5pm; Sun 11am-4pm. You’ll receive 10% off any regular price in stock item (except bikes & car racks). 
+
+#### North Side
+
+*Madison Mallards Duck Pond at Warner Park*, 2920 N. Sherman Avenue, Madison, [MallardsBaseball.com](http://MallardsBaseball.com)
+
+Drop your bike donations off 12-5pm Monday-Saturday or by appointment by emailing info@mallardsbaseball.com. You’ll receive a complimentary Mallards hat when you donate your gently used bikes!
+
+#### West Side
+
+*Keva Sports Center*, 8312 Forsythia Street, Middleton, [KevaSports.com](http://KevaSports.com)
+
+Drop your bike donations off between 9am-11pm Monday through Friday at Keva.
+
+#### Fitchburg
+
+*Race Day Events and Griessmeyer Law*, 2995 Sub Zero Parkway, Fitchburg, [RaceDayEvents.com](http://RaceDayEvents.com) [GriessmeyerLaw.com](http://GriessmeyerLaw.com)
+
+Drop off your gently used bikes anytime between 9am–4pm Monday-Friday. You’ll get a free water bottle and a Hop Haus Beer with your donation!",Free Bikes 4 Kidz Madison,https://fb4kmadison.org/,,,,,donation_site,0,,
+CamRock Women’s (trans inclusive) ride,https://facebook.com/events/s/bell-joy-ride-msfits-madison-b/1675342102623737/?ti=icl,"Social-Distance Singletrack Ride, open to W/T/F identifying mountain bikers ages 18+",Bell Joy Ride/ Midwest Ms.Fits,"https://www.facebook.com/BellJoyRideMadisonWI/, https://www.msfitbike.com/",CamRock 2,,ChIJr8URxtdoBogR3yHKHFagy0Y,,ride,18,5:15PM - 7:30PM,
 1st Annual Madison Brewery Bike Race,https://www.facebook.com/events/680460352681272?acontext=%7B%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D,"Join us for the 1st annual Madison Brewery Bike Race! There is no marked course - just get from one brewery to the other and back as fast (or slow) as you can.
 
 Race for time or ride for fun. Riders must obey all traffic laws, wear face masks and practice social distancing.
 
-Registration fee required -- see site for details. 
+Registration fee required -- see site for details.","Delta Beer Lab, Hop Haus Brewing Company","https://www.delta.beer/, https://www.hophausbrewing.com/",,,,"[Delta Beer Lab](https://www.google.com/maps/place/Delta+Beer+Lab/@43.0370356,-89.3844482,17z/data=!3m1!4b1!4m5!3m4!1s0x88065355273662d7:0xe6d0c98465597d1e!8m2!3d43.0370356!4d-89.3822595) and [Hop Haus Brewing Company - Fitchburg](https://www.google.com/maps/place/Hop+Haus+Brewing+Company/@43.0051526,-89.4612519,17z/data=!3m1!4b1!4m5!3m4!1s0x8807b33a3da5cd09:0x3d5d6c5bcc349f46!8m2!3d43.0051526!4d-89.4590632)","ride, paid",20,11AM - 7PM,https://images.squarespace-cdn.com/content/v1/59d533349f8dcea3fbc7d7af/1598725864107-S9YKVD96CG3Y60ASEF0V/ke17ZwdGBToddI8pDm48kKlnEJe-S6O_EkCaG3agFGRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI5hzhLde4hvatJsNly355ffNU5CmVUljmMZYTraQzQ-A/Bike+Race+Facebook+%281%29.png?format=500w
+Beers for Bikes,,"Bring in a gently used bicycle 2-6pm during Madison Bike Week, September 12-20th and receive a free pint! N/A options also available.",Delta Beer Lab,https://www.delta.beer/,"Delta Beer Lab, 167 E Badger Rd",,,,event,0,2PM - 6PM,
+Cargo Bike Family Hour!,,A bike themed family-friendly event,The Cargo Bike Shop,https://www.facebook.com/thecargobikeshop/,The Cargo Bike Shop,,,,"discounts, virtual_event",13,10AM - 11:30AM,
+Schwinn (Pacific Cycle) Swag Rides,,We've partnered with PeopleForBikes to set up several routes in the Ride Spot app which start and stop in the Schwinn (Pacific Cycle) parking lot! Participants will be encouraged to bring a non-perishable food item or toiletry for the food drive bin and then complete the route of their choice. Routes completed during Bike Week will be eligible for a Schwinn Swag item :),Schwinn (Pacific Cycle),https://www.pacific-cycle.com/,Schwinn (Pacific Cycle) Headquarters - 4902 Hammersley Road,,,,"ride, discounts, giveaways, donation_site",0,,
+Bike Benefits Blitz,https://www.facebook.com/BicycleBenefitsMadison,"The #BikeBenefitsBlitz photo challenge starts on the 1st of September. Look at the [www.bicyclebenefits.org](https://www.bicyclebenefits.org) map of all the unique places around the area and plan on visiting a new place EVERY day in September. Every unique place where you use Bicycle Benefits and post a photo counts. Prizes will be sweet and the bike rides will be even better!   
 
-![Event flyer](https://images.squarespace-cdn.com/content/v1/59d533349f8dcea3fbc7d7af/1598725864107-S9YKVD96CG3Y60ASEF0V/ke17ZwdGBToddI8pDm48kKlnEJe-S6O_EkCaG3agFGRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI5hzhLde4hvatJsNly355ffNU5CmVUljmMZYTraQzQ-A/Bike+Race+Facebook+%281%29.png?format=500w)","Delta Beer Lab, Hop Haus Brewing Company","https://www.delta.beer/, https://www.hophausbrewing.com/",,,,"[Delta Beer Lab](https://www.google.com/maps/place/Delta+Beer+Lab/@43.0370356,-89.3844482,17z/data=!3m1!4b1!4m5!3m4!1s0x88065355273662d7:0xe6d0c98465597d1e!8m2!3d43.0370356!4d-89.3822595) and [Hop Haus Brewing Company - Fitchburg](https://www.google.com/maps/place/Hop+Haus+Brewing+Company/@43.0051526,-89.4612519,17z/data=!3m1!4b1!4m5!3m4!1s0x8807b33a3da5cd09:0x3d5d6c5bcc349f46!8m2!3d43.0051526!4d-89.4590632)","ride, paid",20,11AM - 7PM
-Beers for Bikes,,"Bring in a gently used bicycle 2-6pm during Madison Bike Week, September 12-20th and receive a free pint! N/A options also available.",Delta Beer Lab,https://www.delta.beer/,"Delta Beer Lab, 167 E Badger Rd",,,,event,0,2PM - 6PM
-Cargo Bike Family Hour!,,A bike themed family-friendly event,The Cargo Bike Shop,https://www.facebook.com/thecargobikeshop/,The Cargo Bike Shop,,,,"discounts, virtual_event",13,10AM - 11:30AM
-Schwinn (Pacific Cycle) Swag Rides,,We've partnered with PeopleForBikes to set up several routes in the Ride Spot app which start and stop in the Schwinn (Pacific Cycle) parking lot! Participants will be encouraged to bring a non-perishable food item or toiletry for the food drive bin and then complete the route of their choice. Routes completed during Bike Week will be eligible for a Schwinn Swag item :),Schwinn (Pacific Cycle),https://www.pacific-cycle.com/,Schwinn (Pacific Cycle) Headquarters - 4902 Hammersley Road,,,,"ride, discounts, giveaways, donation_site",0,
-Bike Benefits Blitz,https://www.facebook.com/BicycleBenefitsMadison,The #BikeBenefitsBlitz photo challenge starts on the 1st of September. Look at the [www.bicyclebenefits.org](https://www.bicyclebenefits.org) map of all the unique places around the area and plan on visiting a new place EVERY day in September. Every unique place where you use Bicycle Benefits and post a photo counts. Prizes will be sweet and the bike rides will be even better!   ,Bicycle Benefits Madison,https://www.bicyclebenefits.org/,,,,,"ride, discounts ",0,
-Love to Ride - Cycle September,https://www.lovetoride.net/madison?locale=en-US,"Cycle September brings the National Bike Challenge to a close. Your rides will help your club/group continue to climb the leaderboard and finish the NBC on a high note. For September you can also take part with your workplace and compete against others worldwide.
+1. Pick up a $5 Bicycle Benefits helmet sticker at a local business  
+1.  Use it at bike-loving places and post photos of your adventure.
+1. Win gift cards based on how many spots you use it during September.",Bicycle Benefits Madison,https://www.bicyclebenefits.org/,,,,,"ride, discounts ",0,,https://www.madisonbikes.org/wp-content/uploads/2020/09/BBB.png
+Love to Ride - Cycle September,https://www.lovetoride.net/madison?locale=en-US,"Cycle September brings the National Bike Challenge to a close. Your rides will help your club/group continue to climb the leaderboard and finish the NBC on a high note. For September you can also take part with your workplace and compete against others worldwide. If you want to show your support for Madison Bikes, join the [Madison Bikes group on Love to Ride](https://www.lovetoride.net/madison/groups/2597?locale=en-US)
 
 Individuals and workplaces will compete locally, nationally and worldwide to earn the most points by riding and encouraging others to do the same. 
 
-You can ride anywhere, anytime during September - just a 10 minute ride is enough to take part.",Love to Ride Madison,https://www.lovetoride.net/madison?locale=en-US,,,,,"ride, giveaways",0,
+You can ride anywhere, anytime during September - just a 10 minute ride is enough to take part.",Love to Ride Madison,https://www.lovetoride.net/madison?locale=en-US,,,,,"ride, giveaways",0,,
 Pedal for Good Community Food Drive,https://www.lovetoride.net/madison/pages/info?locale=en-US&page=2_events&fbclid=IwAR0a3eyE_nsYTyWKRDmjxq0FrrobBWgJO4919OQ3NNKdZP-0SAxt6O3BPNM,"Help us meet a growing community need by donating food and supplies at participating bike shops throughout September! Donations will benefit the Community Action Coalition, which delivers to over 80 sites in Dane, Jefferson, and Waukesha Counties. 
 
-Post a Story with a photo of yourself donating and hashtag #PedalForGood or #BikeFoodDrive to be entered into a drawing for a Saris bike rack at the end of the month! ",Love to Ride Madison,https://www.lovetoride.net/madison?locale=en-US,,,,,"ride, giveaways, donation_site",0,
+Post a Story with a photo of yourself donating and hashtag #PedalForGood or #BikeFoodDrive to be entered into a drawing for a Saris bike rack at the end of the month! ",Love to Ride Madison,https://www.lovetoride.net/madison?locale=en-US,,,,,"ride, giveaways, donation_site",0,,
 " ""Pick Me Up At The Border"" Bike Ride (*Bike Week Preview Night!)",https://runsignup.com/Race/WI/Fitchburg/PickMeUpattheBorder,"Join Bike Fitchburg for their annual ""Pick Me Up At The Border"" bike ride, September 11th to celebrate the start of bike week! The ride begins at 7:00pm and riders will travel 80 miles round trip along the Badger State Trail to the Illinois border and back. 
 
 If you prefer a shorter ride, you can do the round trip 50 mile round trip from Monticello, or 25 mile round trip from Belleville.
 
-Registration fee required -- see site for details. ",Bike Fitchburg,http://www.bikefitchburg.org/,"2995 Sub-Zero Pkwy, Fitchburg",,,,"ride, paid",11,7PM
+Registration fee required -- see site for details. ",Bike Fitchburg,http://www.bikefitchburg.org/,"2995 Sub-Zero Pkwy, Fitchburg",,,,"ride, paid",11,7PM,
 Madison BCycle Free Membership,,"We’ve created a promo code: **`bikeweek2020`** which can be used by riders at the kiosk or on the mobile app as long as they don't have an existing membership with BCycle. This code offers a **free** one-month membership with unlimited 60-minute trips! Usage fees will still apply for any rides longer than 60 minutes @$3/30minutes. To avoid these fees, riders can check bikes into a dock and re-check out a bike immediately.
 
 1. Visit any [Madison BCycle station](https://madison.bcycle.com/nav/about/map)
 1. Download [app](https://www.bcycle.com/app) or find nearest station at madison.bcycle.com
 1. Go through steps at the kiosk to select ‘Monthly Pass’
-1. When asked ‘Have a Promo Code’ select ‘Yes’ and enter **`bikeweek2020`**",Madison BCycle,https://www.bcycle.com/app,,,,,"discounts, giveaways",0,
-UW-Madison Bike Scavenger Hunt,,"A month-long, campus-wide bike scavenger hunt open to UW-Madison students, faculty, and staff. Event runs September 2 – 30. Download the free GooseChase app (Apple App Store or Google Play), search for “UW-Mad Bike Scavengers,” and get started on your first mission. You’ll have the chance to learn more about campus and Madison and even compete to win prizes!",UW-Madison Transportation Services,https://transportation.wisc.edu/bicycling/,,,,,"ride, giveaways",0,
+1. When asked ‘Have a Promo Code’ select ‘Yes’ and enter **`bikeweek2020`**",Madison BCycle,https://www.bcycle.com/app,,,,,"discounts, giveaways",0,,
+UW-Madison Bike Scavenger Hunt,,"A month-long, campus-wide bike scavenger hunt open to UW-Madison students, faculty, and staff. Event runs September 2 – 30. Download the free GooseChase app (Apple App Store or Google Play), search for “UW-Mad Bike Scavengers,” and get started on your first mission. You’ll have the chance to learn more about campus and Madison and even compete to win prizes!",UW-Madison Transportation Services,https://transportation.wisc.edu/bicycling/,,,,,"ride, giveaways",0,,
 “Bicycle Flat Fix” Virtual Class,https://transportation.wisc.edu/event/urbc-virtual-class-bicycle-flat-fix/,"“Bicycle Flat Fix” virtual class – September 15, 7-8:30 p.m. Class taught by India Viola, local bicycle advocate and educator. Learn what you need to fix flat tires with confidence in this in-depth flat fix clinic for front wheels. Pre-registration is required at Bicycle Flat Fix Class – WebEx online registration.
-Limited to 12 attendees, with a waitlist available. Once you are approved by the host, you will receive a confirmation email with instructions for joining the session.",UW-Madison Transportation Services,https://transportation.wisc.edu/bicycling/,,,,,virtual_event,15,7PM - 8:30PM
-Fitchburg Cycles Bike Week Discount,,"20% off in-store for bike week. Limitations apply on discount offer, contact shop for further details. (No discounts on bikes, labor, car racks, trainers, or special order items.) Discount applies to any individuals who ride to the shop and show their helmet. ",Fitchburg Cycles,https://www.fitchburgcycles.com/,"2970 Cahill Main Suite 101, Fitchburg",,,,discounts,0,
-Cargo Bikes & Business,https://us02web.zoom.us/meeting/register/tZ0pceuqqz4pG9ynaEKqWKDcciGXJba7nfh_,"The 2015 Bicycle Plan recommended increasing the use of bicycles by city agencies and providing support for local businesses to use bicycles for freight, cargo and other uses. Join us during Bike Week to learn more about how cargo bikes are being used right here in Madison by City departments as well as by local businesses. Learn more, ask questions and discuss how you and your business could make use of this environmentally friendly, healthy mode of transportation. Zoom Registration: https://us02web.zoom.us/meeting/register/tZ0pceuqqz4pG9ynaEKqWKDcciGXJba7nfh_","City of Madison, Downtown Madison Inc","https://www.cityofmadison.com/, https://downtownmadison.org/",,,,,virtual_event,16,12PM - 1PM
+Limited to 12 attendees, with a waitlist available. Once you are approved by the host, you will receive a confirmation email with instructions for joining the session.",UW-Madison Transportation Services,https://transportation.wisc.edu/bicycling/,,,,,virtual_event,15,7PM - 8:30PM,
+Fitchburg Cycles Bike Week Discount,,"20% off in-store for bike week. Limitations apply on discount offer, contact shop for further details. (No discounts on bikes, labor, car racks, trainers, or special order items.) Discount applies to any individuals who ride to the shop and show their helmet. ",Fitchburg Cycles,https://www.fitchburgcycles.com/,"2970 Cahill Main Suite 101, Fitchburg",,,,discounts,0,,
+Cargo Bikes & Business,https://us02web.zoom.us/meeting/register/tZ0pceuqqz4pG9ynaEKqWKDcciGXJba7nfh_,"The 2015 Bicycle Plan recommended increasing the use of bicycles by city agencies and providing support for local businesses to use bicycles for freight, cargo and other uses. Join us during Bike Week to learn more about how cargo bikes are being used right here in Madison by City departments as well as by local businesses. Learn more, ask questions and discuss how you and your business could make use of this environmentally friendly, healthy mode of transportation. 
+
+Zoom Registration: https://us02web.zoom.us/meeting/register/tZ0pceuqqz4pG9ynaEKqWKDcciGXJba7nfh_","City of Madison, Downtown Madison Inc","https://www.cityofmadison.com/, https://downtownmadison.org/",,,,,virtual_event,16,12PM - 1PM,

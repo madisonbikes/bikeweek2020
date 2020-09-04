@@ -16,6 +16,9 @@ class CalendarWriter(
     private val events: List<Event>,
     private val forPrint: Boolean
 ) {
+    companion object {
+        const val FLYER_WIDTH = "500px"
+    }
 
     fun writeCalendarMarkdown() {
         var allEventCount = 0
@@ -132,6 +135,10 @@ class CalendarWriter(
                 mdDescription = mdDescription.stripMarkdownLinks()
             }
             calendarSink += "$mdDescription\n\n"
+        }
+
+        if(event.flyerUrl != null && !forPrint) {
+            calendarSink += "<a href=\"${event.flyerUrl}\"><img src=\"${event.flyerUrl}\" width=\"${FLYER_WIDTH}\" title=\"Event Flyer\"></img></a>\n\n"
         }
         val icons = event.eventTypes
             .sortedBy { it.ordinal }
