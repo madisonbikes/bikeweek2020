@@ -242,7 +242,33 @@ A bike themed family-friendly event
 
 Monday, September 14
 --------------------
-No events announced (yet!)
+
+### [WTF Zoom Event](https://www.facebook.com/events/637672710485950)
+
+- 6:00 PM - 8:00 PM
+- Sponsored by [Madison Bikes](https://www.madisonbikes.org/) and [Madison Area Metropolitan Planning Organization (MPO)](https://www.greatermadisonmpo.org/)
+
+Throughout the U.S., women* bike less than men* for transportation, recreation, and sport. Why? Even in Madison, which has a better record than many cities, the disparities are very noticeable. What keeps you from biking? What keeps your friends, family, or colleagues from biking? There has been a lot of academic research and discussion on this topic, but we want to hear from you. 
+
+
+
+Join us for a casual discussion of what keeps women, trans, and femme folks from biking more, or at all. Bring your ideas, gripes, solutions, concerns, and encouragement for others. Based on this discussion we may schedule future sessions on more specific topics, such as errands, biking with kids, male culture in recreational biking, biking groups for WTF, or other topics that come out of this. 
+
+
+
+*Women and men here are used as a shorthand, and not meant to be binary or exclusive. For this event, we are asking that only people who identify as female, trans, or nonbinary. We want to be able to speak freely amongst ourselves. 
+
+
+
+Madison Bikes board members Heather Pape and Robbie Webber will be joined by Zia Brucaya from the Madison Area MPO as hosts, but this discussion is for you, not us. 
+
+
+
+Monday, September 14 at 6:00 pm
+
+Zoom link: TBD
+
+<i class="fas fa-video" title="Virtual Event"></i>
 
 [\[up\]](#TOC)
 
@@ -371,5 +397,5 @@ Registration fee required -- see site for details.
 
 [\[up\]](#TOC)
 
-_Calendar last updated Sep 4, 2020, 4:25:24 PM_
+_Calendar last updated Sep 6, 2020, 10:55:31 PM_
 
