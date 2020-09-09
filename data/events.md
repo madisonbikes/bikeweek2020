@@ -182,7 +182,7 @@ A month-long, campus-wide bike scavenger hunt open to UW-Madison students, facul
 <i class="fas fa-percent" title="Rider Discounts"></i>
 
 
-### Cycle September Trails and Parks Clean Up
+### [Cycle September Trails and Parks Clean Up](https://www.cityofmadison.com/parks/biking/)
 
 - Sponsored by [City of Madison Parks Department](https://www.cityofmadison.com/parks/)
 
@@ -190,7 +190,7 @@ Pedal for Good is a month-long celebration of biking in Madison. Activities incl
 
  
 
-Help Madison Parks and the City Traffic Engineering Division by cleaning up a trail or park. Before you head out for a bike ride, grab a few supplies, plot your course and stop a park or trail picking up trash along the way. Use the online interactive maps to find a trail or park near you.
+Help Madison Parks and the City Traffic Engineering Division by cleaning up a trail or park. Before you head out for a bike ride, grab a few supplies, plot your course and stop at a park or trail - picking up trash along the way. Use the online interactive maps to find a trail or park near you.
 
  
 
@@ -434,5 +434,5 @@ Registration fee required -- see site for details.
 
 [\[up\]](#TOC)
 
-_Calendar last updated Sep 9, 2020, 2:10:43 PM_
+_Calendar last updated Sep 9, 2020, 3:45:17 PM_
 
