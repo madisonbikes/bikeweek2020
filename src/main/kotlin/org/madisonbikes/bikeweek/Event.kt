@@ -33,7 +33,14 @@ data class Event(
                 .split(",")
                 .map { it.trim() }
                 .filterNot { it.isBlank() }
-                .map { EventType.valueOf(it.toUpperCase(Locale.US)) }
+                .mapNotNull {
+                    try {
+                        EventType.valueOf(it.toUpperCase(Locale.US))
+                    } catch (e: IllegalArgumentException) {
+                        println("Unexpected event type $it")
+                        null
+                    }
+                }
                 .toSet()
             val days = item.getValue("days")
                 .split(",")
@@ -44,7 +51,7 @@ data class Event(
                     val event = EventDay.ALL.firstOrNull {
                         it.dayOfMonth == dayOfMonth.toInt()
                     }
-                    if(event == null) {
+                    if (event == null) {
                         println("Unsupported event day $dayOfMonth")
                     }
                     event

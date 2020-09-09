@@ -92,7 +92,7 @@ Drop off your gently used bikes anytime between 9am–4pm Monday-Friday. You’l
 
 We've partnered with PeopleForBikes to set up several routes in the Ride Spot app which start and stop in the Schwinn (Pacific Cycle) parking lot! Participants will be encouraged to bring a non-perishable food item or toiletry for the food drive bin and then complete the route of their choice. Routes completed during Bike Week will be eligible for a Schwinn Swag item :)
 
-<i class="fas fa-percent" title="Rider discounts"></i>&nbsp;<i class="fas fa-map-marked-alt" title="Rides and Routes"></i>&nbsp;<i class="fas fa-hand-holding-heart" title="Donation Site"></i>&nbsp;<i class="fas fa-gift" title="Giveaways"></i>
+<i class="fas fa-percent" title="Rider Discounts"></i>&nbsp;<i class="fas fa-map-marked-alt" title="Rides and Routes"></i>&nbsp;<i class="fas fa-hand-holding-heart" title="Donation Site"></i>&nbsp;<i class="fas fa-gift" title="Giveaways"></i>
 
 
 ### [Bike Benefits Blitz](https://www.facebook.com/BicycleBenefitsMadison)
@@ -111,7 +111,7 @@ The #BikeBenefitsBlitz photo challenge starts on the 1st of September. Look at t
 
 <a href="https://www.madisonbikes.org/wp-content/uploads/2020/09/BBB.png"><img src="https://www.madisonbikes.org/wp-content/uploads/2020/09/BBB.png" width="500px" title="Event Flyer"></img></a>
 
-<i class="fas fa-percent" title="Rider discounts"></i>&nbsp;<i class="fas fa-map-marked-alt" title="Rides and Routes"></i>
+<i class="fas fa-percent" title="Rider Discounts"></i>&nbsp;<i class="fas fa-map-marked-alt" title="Rides and Routes"></i>
 
 
 ### [Love to Ride - Cycle September](https://www.lovetoride.net/madison?locale=en-US)
@@ -160,7 +160,7 @@ We’ve created a promo code: **`bikeweek2020`** which can be used by riders at 
 
 1. When asked ‘Have a Promo Code’ select ‘Yes’ and enter **`bikeweek2020`**
 
-<i class="fas fa-percent" title="Rider discounts"></i>&nbsp;<i class="fas fa-gift" title="Giveaways"></i>
+<i class="fas fa-percent" title="Rider Discounts"></i>&nbsp;<i class="fas fa-gift" title="Giveaways"></i>
 
 
 ### UW-Madison Bike Scavenger Hunt
@@ -179,7 +179,44 @@ A month-long, campus-wide bike scavenger hunt open to UW-Madison students, facul
 
 20% off in-store for bike week. Limitations apply on discount offer, contact shop for further details. (No discounts on bikes, labor, car racks, trainers, or special order items.) Discount applies to any individuals who ride to the shop and show their helmet.
 
-<i class="fas fa-percent" title="Rider discounts"></i>
+<i class="fas fa-percent" title="Rider Discounts"></i>
+
+
+### Cycle September Trails and Parks Clean Up
+
+- Sponsored by [City of Madison Parks Department](https://www.cityofmadison.com/parks/)
+
+Pedal for Good is a month-long celebration of biking in Madison. Activities include a trail and park cleanup, a food drive, an online class and more.
+
+ 
+
+Help Madison Parks and the City Traffic Engineering Division by cleaning up a trail or park. Before you head out for a bike ride, grab a few supplies, plot your course and stop a park or trail picking up trash along the way. Use the online interactive maps to find a trail or park near you.
+
+ 
+
+Bike Trails: Search by address or place at https://cityofmadison.maps.arcgis.com/apps/webappviewer/index.html?id=5d9b5793e6404b8c89872c06bd5f26c2
+
+Parks: Search by address and amenity at https://www.cityofmadison.com/parks/find-a-park/find/
+
+ 
+
+Place your filled trash bags at the edge of the park, near a paved path or in the trash can, if available. Be sure to follow up with an email to parksvolunteer@cityofmadison.com to alert us of the location and work completed.  We request all volunteers complete and submit the Volunteer Release Form. Send any photos along as well.  We love photos to share!  Thank you in advance for keeping trails and parks clean!
+
+ 
+
+Volunteers are reminded of the following:
+
+- This is a solo project or done with members of your household only.
+
+- No group projects.
+
+- Bring your own bags.
+
+- Use gloves and hand sanitizer.
+
+- A cloth face covering is recommended.
+
+<i class="fas fa-hands-helping" title="Volunteer Opportunity"></i>
 
 
 ### Beers for Bikes
@@ -235,7 +272,7 @@ Sunday, September 13
 
 A bike themed family-friendly event
 
-<i class="fas fa-percent" title="Rider discounts"></i>&nbsp;<i class="fas fa-video" title="Virtual Event"></i>
+<i class="fas fa-percent" title="Rider Discounts"></i>&nbsp;<i class="fas fa-video" title="Virtual Event"></i>
 
 [\[up\]](#TOC)
 
@@ -397,5 +434,5 @@ Registration fee required -- see site for details.
 
 [\[up\]](#TOC)
 
-_Calendar last updated Sep 6, 2020, 10:55:31 PM_
+_Calendar last updated Sep 9, 2020, 2:10:43 PM_
 
