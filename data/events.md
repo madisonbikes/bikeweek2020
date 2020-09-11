@@ -105,7 +105,7 @@ The #BikeBenefitsBlitz photo challenge starts on the 1st of September. Look at t
 
 1. Pick up a $5 Bicycle Benefits helmet sticker at a local business  
 
-1.  Use it at bike-loving places and post photos of your adventure.
+1. Use it at bike-loving places and post photos of your adventure.
 
 1. Win gift cards based on how many spots you use it during September.
 
@@ -160,6 +160,10 @@ We’ve created a promo code: **`bikeweek2020`** which can be used by riders at 
 
 1. When asked ‘Have a Promo Code’ select ‘Yes’ and enter **`bikeweek2020`**
 
+
+
+Note that using this code will enable auto-renewal every month, so if you *don't* want to auto-renew, be sure to turn that off in your BCycle profile after applying this code.
+
 <i class="fas fa-percent" title="Rider Discounts"></i>&nbsp;<i class="fas fa-gift" title="Giveaways"></i>
 
 
@@ -194,9 +198,9 @@ Help Madison Parks and the City Traffic Engineering Division by cleaning up a tr
 
  
 
-Bike Trails: Search by address or place at https://cityofmadison.maps.arcgis.com/apps/webappviewer/index.html?id=5d9b5793e6404b8c89872c06bd5f26c2
+Bike Trails: (Search by address or place)[https://cityofmadison.maps.arcgis.com/apps/webappviewer/index.html?id=5d9b5793e6404b8c89872c06bd5f26c2]
 
-Parks: Search by address and amenity at https://www.cityofmadison.com/parks/find-a-park/find/
+Parks: (Search by address and amenity)[https://www.cityofmadison.com/parks/find-a-park/find/]
 
  
 
@@ -217,6 +221,30 @@ Volunteers are reminded of the following:
 - A cloth face covering is recommended.
 
 <i class="fas fa-hands-helping" title="Volunteer Opportunity"></i>
+
+
+### [Bike Rides](https://www.madisonbikes.org/bike-rides)
+
+- Sponsored by [Madison Bikes](https://madisonbikes.org)
+
+While group rides aren't possible while social distancing, we've created fun routes across town. Explore themed routes and more of different lengths. Strava and Ride Spot integration, as well as GPX files, are available so you know where to go. We'd love to see your pictures of exploring the city on these rides!
+
+<i class="fas fa-map-marked-alt" title="Rides and Routes"></i>
+
+
+### Bike to a Food Fight Restauant!
+
+- Sponsored by [Food Fight](https://foodfightinc.com/)
+
+Jump on your bike and stop by any Food Fight restaurant (dine-in or carryout), and show your bike helmet and you'll get $5 off your bill of $20 or more.
+
+
+
+**Carryout orders must be placed and paid for over the phone. Please mention "Madison Bike Week $5 off" when ordering.
+
+ Visit foodfightinc.com to check out our roster of local restaurants.
+
+<i class="fas fa-percent" title="Rider Discounts"></i>
 
 
 ### Beers for Bikes
@@ -264,6 +292,17 @@ No events announced (yet!)
 Sunday, September 13
 --------------------
 
+### [Bicycle Brunch with Dream Bikes](https://www.facebook.com/events/906172703127361?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D]%2C%22ref%22%3A%2252%22%2C%22ref_notif_type%22%3Anull%7D)
+
+- [2801 Marshall Court](https://www.google.com/maps/search/?api=1&query=2801%20Marshall%20Court%20Madison%2C%20WI)
+- 8:00 AM - 12:00 PM
+- Sponsored by [Everyday Kitchen - Madison](https://www.everydaykitchen.com/madison-wi?fbclid=IwAR0um5gvmKSaxDEqQf-Nqz49JeLcsF77GZTuuoP3SgkgA1SdJ8dB3IIHpjk) and [DreamBikes - Madison North](https://dream-bikes.org/?fbclid=IwAR0um5gvmKSaxDEqQf-Nqz49JeLcsF77GZTuuoP3SgkgA1SdJ8dB3IIHpjk)
+
+Bike, brunch and do a little good. Grab the family and pedal over to Everyday Kitchen for Sunday brunch where Dream Bikes will be offering free bike washes and safety checks from 8 am to noon. Reservations can be made at OpenTable.
+
+<i class="fas fa-tools" title="Bike Tune-ups or Maintenance"></i>
+
+
 ### Cargo Bike Family Hour!
 
 - [The Cargo Bike Shop](https://www.google.com/maps/search/?api=1&query=The%20Cargo%20Bike%20Shop%20Madison%2C%20WI)
@@ -280,10 +319,10 @@ A bike themed family-friendly event
 Monday, September 14
 --------------------
 
-### [WTF Zoom Event](https://www.facebook.com/events/637672710485950)
+### [Women, Trans, and Femme Bike Chat](https://www.facebook.com/events/637672710485950)
 
 - 6:00 PM - 8:00 PM
-- Sponsored by [Madison Bikes](https://www.madisonbikes.org/) and [Madison Area Metropolitan Planning Organization (MPO)](https://www.greatermadisonmpo.org/)
+- Sponsored by [Madison Bikes](https://madisonbikes.org/) and [Madison Area Metropolitan Planning Organization (MPO)](https://www.greatermadisonmpo.org/)
 
 Throughout the U.S., women* bike less than men* for transportation, recreation, and sport. Why? Even in Madison, which has a better record than many cities, the disparities are very noticeable. What keeps you from biking? What keeps your friends, family, or colleagues from biking? There has been a lot of academic research and discussion on this topic, but we want to hear from you. 
 
@@ -303,7 +342,9 @@ Madison Bikes board members Heather Pape and Robbie Webber will be joined by Zia
 
 Monday, September 14 at 6:00 pm
 
-Zoom link: TBD
+
+
+Zoom link: https://us02web.zoom.us/j/88097800488
 
 <i class="fas fa-video" title="Virtual Event"></i>
 
@@ -412,6 +453,17 @@ No events announced (yet!)
 Sunday, September 20
 --------------------
 
+### [Bicycle Brunch with Dream Bikes](https://www.facebook.com/events/906172703127361?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D]%2C%22ref%22%3A%2252%22%2C%22ref_notif_type%22%3Anull%7D)
+
+- [2801 Marshall Court](https://www.google.com/maps/search/?api=1&query=2801%20Marshall%20Court%20Madison%2C%20WI)
+- 8:00 AM - 12:00 PM
+- Sponsored by [Everyday Kitchen - Madison](https://www.everydaykitchen.com/madison-wi?fbclid=IwAR0um5gvmKSaxDEqQf-Nqz49JeLcsF77GZTuuoP3SgkgA1SdJ8dB3IIHpjk) and [DreamBikes - Madison North](https://dream-bikes.org/?fbclid=IwAR0um5gvmKSaxDEqQf-Nqz49JeLcsF77GZTuuoP3SgkgA1SdJ8dB3IIHpjk)
+
+Bike, brunch and do a little good. Grab the family and pedal over to Everyday Kitchen for Sunday brunch where Dream Bikes will be offering free bike washes and safety checks from 8 am to noon. Reservations can be made at OpenTable.
+
+<i class="fas fa-tools" title="Bike Tune-ups or Maintenance"></i>
+
+
 ### [1st Annual Madison Brewery Bike Race](https://www.facebook.com/events/680460352681272?acontext=%7B%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D)
 
 - [Delta Beer Lab](https://www.google.com/maps/place/Delta+Beer+Lab/@43.0370356,-89.3844482,17z/data=!3m1!4b1!4m5!3m4!1s0x88065355273662d7:0xe6d0c98465597d1e!8m2!3d43.0370356!4d-89.3822595) and [Hop Haus Brewing Company - Fitchburg](https://www.google.com/maps/place/Hop+Haus+Brewing+Company/@43.0051526,-89.4612519,17z/data=!3m1!4b1!4m5!3m4!1s0x8807b33a3da5cd09:0x3d5d6c5bcc349f46!8m2!3d43.0051526!4d-89.4590632)
@@ -432,7 +484,16 @@ Registration fee required -- see site for details.
 
 <i class="fas fa-map-marked-alt" title="Rides and Routes"></i>&nbsp;<i class="fas fa-dollar-sign" title="Paid Event"></i>
 
+
+### [Pop Up Wheel Spots](https://www.facebook.com/events/s/pop-up-wheel-spots/624081811628671/?ti=icl)
+
+- [Warner Park, 2930 N Sherman Ave](https://www.google.com/maps/search/?api=1&query=Warner%20Park%2C%202930%20N%20Sherman%20Ave%20Madison%2C%20WI)
+- 2:00 PM - 4:00 PM
+- Sponsored by [Capital Off Road Pathfinders (CORP)](https://www.madcitydirt.com/?fbclid=IwAR0jNDQHp40uSdIZHZ0grxhG6imD6jLfTfrfiZDwFh4AOrbwIeIWIS1wwlI)
+
+Do you think there should be mountain bike facilities on the north and east sides of Madison? So do we, and here's a good chance to let the right people know. We're teaming up with Madison Parks and the Madison Skatepark Fund to build enthusiasm for more and better amenities for our sports by hosting pop-up Wheel Spots, where people can get an idea of the possibilities. We'll have our mobile features there, and the skaters are bringing something for the small-wheel crowd. Get on your self-propelled wheeled conveyance of choice and join us!
+
 [\[up\]](#TOC)
 
-_Calendar last updated Sep 9, 2020, 3:45:17 PM_
+_Calendar last updated Sep 11, 2020, 2:49:13 PM_
 
