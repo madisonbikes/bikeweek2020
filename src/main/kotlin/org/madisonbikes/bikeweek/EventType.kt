@@ -2,7 +2,7 @@ package org.madisonbikes.bikeweek
 
 enum class EventType(val description: String, val fontAwesomeIcon: String? = null) {
     STATION_FOOD("Bike Station (with food)", "utensils"),
-    STATION_TUNEUPS("Bike Station (with tuneups)", "tools"),
+    TUNEUPS("Bike Tune-ups or Maintenance", "tools"),
     DISCOUNTS("Rider Discounts", "percent"),
     RIDE("Rides and Routes", "map-marked-alt"),
     PART_OF_EVENT("Part of Larger Event"),
