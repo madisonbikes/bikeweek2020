@@ -85,12 +85,32 @@ Drop off your gently used bikes anytime between 9am–4pm Monday-Friday. You’l
 <i class="fas fa-hand-holding-heart" title="Donation Site"></i>
 
 
-### Schwinn (Pacific Cycle) Swag Rides
+### [Schwinn Swag Rides](https://ridespot.org/profile/view/15316)
 
-- [Schwinn (Pacific Cycle) Headquarters - 4902 Hammersley Road](https://www.google.com/maps/search/?api=1&query=Schwinn%20%28Pacific%20Cycle%29%20Headquarters%20-%204902%20Hammersley%20Road%20Madison%2C%20WI)
+- [Schwinn (Pacific Cycle) Headquarters - 4902 Hammersley Road](https://www.google.com/maps/search/?api=1&query=Schwinn%20%28Pacific%20Cycle%29%20Headquarters%20-%204902%20Hammersley%20Road%20Madison%2C%20WI&query_place_id=%20ChIJbbcZP8KtB4gR__Dq5YbqWh4)
 - Sponsored by [Schwinn (Pacific Cycle)](https://www.pacific-cycle.com/)
 
-We've partnered with PeopleForBikes to set up several routes in the Ride Spot app which start and stop in the Schwinn (Pacific Cycle) parking lot! Participants will be encouraged to bring a non-perishable food item or toiletry for the food drive bin and then complete the route of their choice. Routes completed during Bike Week will be eligible for a Schwinn Swag item :)
+Ride a Schwinn Route in Ride Spot to Win a 125th Anniversary Schwinn Beanie (picture below)
+
+
+
+1. Download the [Ride Spot](https://ridespot.org/profile/view/15316) app and create an account
+
+2. Complete any of the three Schwinn challenges USING THE APP
+
+[Challenge 1](https://ridespot.org/rides/212405) - https://ridespot.org/rides/212405
+
+[Challenge 2](https://ridespot.org/rides/212401) - https://ridespot.org/rides/212401
+
+[Challenge 3](https://ridespot.org/rides/212388) - https://ridespot.org/rides/212388
+
+3. Once completed, your information will be sent to Schwinn through the app and you’ll be contacted about your beanie!
+
+
+
+PHILANTHROPIC EVENT – Schwinn is participating in the Pedal for Good Community Food Drive and will have a food donation bin to combat food insecurity in our region. Please bring a toiletry or non-perishable food item to drop off before you ride one of the Ride Spot Challenges! The donation bin will be at the front door of the Pacific Cycle building and can be accessed during normal business hours (8am-5pm Monday through Friday). Feeding America predicts food insecurity will affect 12% of the Dane County population. That’s an increase of 63%, meaning 24,620 more people will need help this year!
+
+<a href="https://www.madisonbikes.org/wp-content/uploads/2020/09/PacificCycle-Swag-Image-2020.jpg"><img src="https://www.madisonbikes.org/wp-content/uploads/2020/09/PacificCycle-Swag-Image-2020.jpg" width="500px" title="Event Flyer"></img></a>
 
 <i class="fas fa-percent" title="Rider Discounts"></i>&nbsp;<i class="fas fa-map-marked-alt" title="Rides and Routes"></i>&nbsp;<i class="fas fa-hand-holding-heart" title="Donation Site"></i>&nbsp;<i class="fas fa-gift" title="Giveaways"></i>
 
@@ -495,5 +515,5 @@ Do you think there should be mountain bike facilities on the north and east side
 
 [\[up\]](#TOC)
 
-_Calendar last updated Sep 11, 2020, 2:49:13 PM_
+_Calendar last updated Sep 13, 2020, 12:54:42 PM_
 
