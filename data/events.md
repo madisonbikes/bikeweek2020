@@ -98,11 +98,11 @@ Ride a Schwinn Route in Ride Spot to Win a 125th Anniversary Schwinn Beanie (pic
 
 2. Complete any of the three Schwinn challenges USING THE APP
 
-[Challenge 1](https://ridespot.org/rides/212405) - https://ridespot.org/rides/212405
+ - [Challenge 1](https://ridespot.org/rides/212405) - https://ridespot.org/rides/212405
 
-[Challenge 2](https://ridespot.org/rides/212401) - https://ridespot.org/rides/212401
+ - [Challenge 2](https://ridespot.org/rides/212401) - https://ridespot.org/rides/212401
 
-[Challenge 3](https://ridespot.org/rides/212388) - https://ridespot.org/rides/212388
+ - [Challenge 3](https://ridespot.org/rides/212388) - https://ridespot.org/rides/212388
 
 3. Once completed, your information will be sent to Schwinn through the app and you’ll be contacted about your beanie!
 
@@ -218,9 +218,9 @@ Help Madison Parks and the City Traffic Engineering Division by cleaning up a tr
 
  
 
-Bike Trails: (Search by address or place)[https://cityofmadison.maps.arcgis.com/apps/webappviewer/index.html?id=5d9b5793e6404b8c89872c06bd5f26c2]
+Bike Trails: [Search by address or place](https://cityofmadison.maps.arcgis.com/apps/webappviewer/index.html?id=5d9b5793e6404b8c89872c06bd5f26c2)
 
-Parks: (Search by address and amenity)[https://www.cityofmadison.com/parks/find-a-park/find/]
+Parks: [Search by address and amenity](https://www.cityofmadison.com/parks/find-a-park/find/)
 
  
 
@@ -515,5 +515,5 @@ Do you think there should be mountain bike facilities on the north and east side
 
 [\[up\]](#TOC)
 
-_Calendar last updated Sep 13, 2020, 12:54:42 PM_
+_Calendar last updated Sep 13, 2020, 1:00:36 PM_
 
