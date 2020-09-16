@@ -87,7 +87,7 @@ Drop off your gently used bikes anytime between 9am–4pm Monday-Friday. You’l
 
 ### [Schwinn Swag Rides](https://ridespot.org/profile/view/15316)
 
-- [Schwinn (Pacific Cycle) Headquarters - 4902 Hammersley Road](https://www.google.com/maps/search/?api=1&query=Schwinn%20%28Pacific%20Cycle%29%20Headquarters%20-%204902%20Hammersley%20Road%20Madison%2C%20WI&query_place_id=%20ChIJbbcZP8KtB4gR__Dq5YbqWh4)
+- [Schwinn (Pacific Cycle) Headquarters, 4902 Hammersley Road](https://www.google.com/maps/search/?api=1&query=Schwinn%20%28Pacific%20Cycle%29%20Headquarters%2C%204902%20Hammersley%20Road%20Madison%2C%20WI&query_place_id=%20ChIJbbcZP8KtB4gR__Dq5YbqWh4)
 - Sponsored by [Schwinn (Pacific Cycle)](https://www.pacific-cycle.com/)
 
 Ride a Schwinn Route in Ride Spot to Win a 125th Anniversary Schwinn Beanie (picture below)
@@ -98,11 +98,11 @@ Ride a Schwinn Route in Ride Spot to Win a 125th Anniversary Schwinn Beanie (pic
 
 2. Complete any of the three Schwinn challenges USING THE APP
 
- - [Challenge 1](https://ridespot.org/rides/212405) - https://ridespot.org/rides/212405
+   - [Challenge 1](https://ridespot.org/rides/212405) - https://ridespot.org/rides/212405
 
- - [Challenge 2](https://ridespot.org/rides/212401) - https://ridespot.org/rides/212401
+   - [Challenge 2](https://ridespot.org/rides/212401) - https://ridespot.org/rides/212401
 
- - [Challenge 3](https://ridespot.org/rides/212388) - https://ridespot.org/rides/212388
+   - [Challenge 3](https://ridespot.org/rides/212388) - https://ridespot.org/rides/212388
 
 3. Once completed, your information will be sent to Schwinn through the app and you’ll be contacted about your beanie!
 
@@ -198,7 +198,7 @@ A month-long, campus-wide bike scavenger hunt open to UW-Madison students, facul
 
 ### Fitchburg Cycles Bike Week Discount
 
-- [2970 Cahill Main Suite 101, Fitchburg](https://www.google.com/maps/search/?api=1&query=2970%20Cahill%20Main%20Suite%20101%2C%20Fitchburg%2C%20WI)
+- [Fitchburg Cycles, 2970 Cahill Main Suite 101, Fitchburg](https://www.google.com/maps/search/?api=1&query=Fitchburg%20Cycles%2C%202970%20Cahill%20Main%20Suite%20101%2C%20Fitchburg%2C%20WI)
 - Sponsored by [Fitchburg Cycles](https://www.fitchburgcycles.com/)
 
 20% off in-store for bike week. Limitations apply on discount offer, contact shop for further details. (No discounts on bikes, labor, car racks, trainers, or special order items.) Discount applies to any individuals who ride to the shop and show their helmet.
@@ -269,7 +269,7 @@ Jump on your bike and stop by any Food Fight restaurant (dine-in or carryout), a
 
 ### Beers for Bikes
 
-- [Delta Beer Lab, 167 E Badger Rd](https://www.google.com/maps/search/?api=1&query=Delta%20Beer%20Lab%2C%20167%20E%20Badger%20Rd%20Madison%2C%20WI)
+- [Delta Beer Lab, 167 E. Badger Rd](https://www.google.com/maps/search/?api=1&query=Delta%20Beer%20Lab%2C%20167%20E.%20Badger%20Rd%20Madison%2C%20WI)
 - 2:00 PM - 6:00 PM
 - Sponsored by [Delta Beer Lab](https://www.delta.beer/)
 
@@ -314,7 +314,7 @@ Sunday, September 13
 
 ### [Bicycle Brunch with Dream Bikes](https://www.facebook.com/events/906172703127361?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D]%2C%22ref%22%3A%2252%22%2C%22ref_notif_type%22%3Anull%7D)
 
-- [2801 Marshall Court](https://www.google.com/maps/search/?api=1&query=2801%20Marshall%20Court%20Madison%2C%20WI)
+- [Everyday Kitchen, 2801 Marshall Court](https://www.google.com/maps/search/?api=1&query=Everyday%20Kitchen%2C%202801%20Marshall%20Court%20Madison%2C%20WI&query_place_id=ChIJq6p6kl-sB4gRnY-Y8O9xjO8)
 - 8:00 AM - 12:00 PM
 - Sponsored by [Everyday Kitchen - Madison](https://www.everydaykitchen.com/madison-wi?fbclid=IwAR0um5gvmKSaxDEqQf-Nqz49JeLcsF77GZTuuoP3SgkgA1SdJ8dB3IIHpjk) and [DreamBikes - Madison North](https://dream-bikes.org/?fbclid=IwAR0um5gvmKSaxDEqQf-Nqz49JeLcsF77GZTuuoP3SgkgA1SdJ8dB3IIHpjk)
 
@@ -325,7 +325,7 @@ Bike, brunch and do a little good. Grab the family and pedal over to Everyday Ki
 
 ### Cargo Bike Family Hour!
 
-- [The Cargo Bike Shop](https://www.google.com/maps/search/?api=1&query=The%20Cargo%20Bike%20Shop%20Madison%2C%20WI)
+- [The Cargo Bike Shop, 1404 Williamson St](https://www.google.com/maps/search/?api=1&query=The%20Cargo%20Bike%20Shop%2C%201404%20Williamson%20St%20Madison%2C%20WI)
 - 10:00 AM - 11:30 AM
 - Sponsored by [The Cargo Bike Shop](https://www.facebook.com/thecargobikeshop/)
 
@@ -385,6 +385,17 @@ Bike stop/station with pre-packaged snack, water, Gatorade
 <i class="fas fa-utensils" title="Bike Station (with food)"></i>&nbsp;<i class="fas fa-gift" title="Giveaways"></i>
 
 
+### Tuesday Night Meander
+
+- [Slow Roll Cycles, 4118 Monona Dr](https://www.google.com/maps/search/?api=1&query=Slow%20Roll%20Cycles%2C%204118%20Monona%20Dr%20Madison%2C%20WI&query_place_id=ChIJRYxUuclTBogRfJph2Z72MkM)
+- 6:20 PM - 9:30 PM
+- Sponsored by [Slow Roll Cycles](https://www.slowrollcycles.com/)
+
+A socially distanced Tuesday casual evening ride, starting at Slow Roll Cycles and ending at the Muskie Lounge. Please wear a mask, behave in a COVID-safe manner -- and join for as much or little of the ride as you like. Any bike, any person, any pace is welcome.
+
+<i class="fas fa-map-marked-alt" title="Rides and Routes"></i>
+
+
 ### [“Bicycle Flat Fix” Virtual Class](https://transportation.wisc.edu/event/urbc-virtual-class-bicycle-flat-fix/)
 
 - 7:00 PM - 8:30 PM
@@ -411,6 +422,17 @@ Wednesday, September 16
 Bike stop/station with pre-packaged snack, water, Gatorade
 
 <i class="fas fa-utensils" title="Bike Station (with food)"></i>&nbsp;<i class="fas fa-gift" title="Giveaways"></i>
+
+
+### Slow Rolling to Nowhere?
+
+- [Corner of Monona Dr @ Buckeye Rd, Lake Edge Center](https://www.google.com/maps/search/?api=1&query=43%C2%B004%2746.1%22N%2089%C2%B019%2725.6%22W)
+- 7:00 AM - 9:30 AM
+- Sponsored by [Slow Roll Cycles](https://www.slowrollcycles.com/) and [Crema Cafe](https://goodcrema.com/)
+
+Don your mask, bike to Slow Roll Cycles and Cafe Crema, and enjoy donut muffins, coffee, bike checks, and long distance conversations outside.
+
+<i class="fas fa-utensils" title="Bike Station (with food)"></i>&nbsp;<i class="fas fa-tools" title="Bike Tune-ups or Maintenance"></i>
 
 
 ### [Cargo Bikes & Business](https://us02web.zoom.us/meeting/register/tZ0pceuqqz4pG9ynaEKqWKDcciGXJba7nfh_)
@@ -475,7 +497,7 @@ Sunday, September 20
 
 ### [Bicycle Brunch with Dream Bikes](https://www.facebook.com/events/906172703127361?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D]%2C%22ref%22%3A%2252%22%2C%22ref_notif_type%22%3Anull%7D)
 
-- [2801 Marshall Court](https://www.google.com/maps/search/?api=1&query=2801%20Marshall%20Court%20Madison%2C%20WI)
+- [Everyday Kitchen, 2801 Marshall Court](https://www.google.com/maps/search/?api=1&query=Everyday%20Kitchen%2C%202801%20Marshall%20Court%20Madison%2C%20WI&query_place_id=ChIJq6p6kl-sB4gRnY-Y8O9xjO8)
 - 8:00 AM - 12:00 PM
 - Sponsored by [Everyday Kitchen - Madison](https://www.everydaykitchen.com/madison-wi?fbclid=IwAR0um5gvmKSaxDEqQf-Nqz49JeLcsF77GZTuuoP3SgkgA1SdJ8dB3IIHpjk) and [DreamBikes - Madison North](https://dream-bikes.org/?fbclid=IwAR0um5gvmKSaxDEqQf-Nqz49JeLcsF77GZTuuoP3SgkgA1SdJ8dB3IIHpjk)
 
@@ -515,5 +537,5 @@ Do you think there should be mountain bike facilities on the north and east side
 
 [\[up\]](#TOC)
 
-_Calendar last updated Sep 13, 2020, 1:00:36 PM_
+_Calendar last updated Sep 16, 2020, 1:01:09 PM_
 
